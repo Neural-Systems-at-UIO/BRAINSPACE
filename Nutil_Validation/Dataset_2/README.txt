@@ -3,4 +3,6 @@ It contains atlas maps from the BXD-mice and segmentation files that are complet
 The intention was to test that the object splitting feature works correctly with the parameters selected for the study.
 In other words, every region should give 100% coverage.
 
+The .NUT file contains the parameters used for the study. These correspond to the parameters used for the BRAINSPACE study.
+
 Results: The Nutil results were as expected.
