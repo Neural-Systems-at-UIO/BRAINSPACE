@@ -1,0 +1,11 @@
+Region name;Region pixels;Region area;Area unit;Object count;Object pixels;Object area;Area unit;Load;;;;;;;;;;;;;;;
+Cortex;1590751;1590750.875000;pixels;N/A;1590634;1590634;pixels;0.999927;;;;;;;;;;;;;;;
+Fibretracts;445795;445795.187500;pixels;N/A;446100;446100;pixels;1.000684;;;;;;;;;;;;;;;
+Hippo;2392710;2392710;pixels;N/A;2391813;2391813;pixels;0.999625;;;;;;;;;;;;;;;
+Olfactory;243069;243068.937500;pixels;N/A;242955;242955;pixels;0.999531;;;;;;;;;;;;;;;
+Hypothalamus;0;0;pixels;N/A;0;0;pixels;0;;;;;;;;;;;;;;;
+Striatum_Pallidum;0;0;pixels;N/A;0;0;pixels;0;;;;;;;;;;;;;;;
+Mid_Hind_Medulla;2229313;2229313.250000;pixels;N/A;2228507;2228507;pixels;0.999638;;;;;;;;;;;;;;;
+Thalamus;60430;60429.640625;pixels;N/A;60447;60447;pixels;1.000287;;;;;;;;;;;;;;;
+Cerebellum;0;0;pixels;N/A;0;0;pixels;0;;;;;;;;;;;;;;;
+VentricularSystems;0;0;pixels;N/A;0;0;pixels;0;;;;;;;;;;;;;;;
