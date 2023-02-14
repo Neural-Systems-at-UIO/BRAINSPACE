@@ -27,11 +27,6 @@ display_label_id = No
 output_region_id = Yes
 pattern_match = _sXXX
 files = 
-nutil_version = v0.7.0
+nutil_version = v0.7.0
 
-nutil_version = v0.7.0
-
-nutil_version = v0.7.0
-
-nutil_version = v0.7.0
 
