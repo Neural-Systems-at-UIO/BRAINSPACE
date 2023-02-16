@@ -7,6 +7,7 @@ https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspa
 https://quint-workflow.readthedocs.io/en/latest/ 
 
 **How to cite**
+------------------
 
 **QUINT**
 
