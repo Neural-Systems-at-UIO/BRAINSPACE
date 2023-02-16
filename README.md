@@ -9,6 +9,10 @@ https://quint-workflow.readthedocs.io/en/latest/
 **How to cite**
 ------------------
 
+**BRAINSPACE Project** 
+
+Gurdon B, Yates SC, et al. Detecting the effect of genetic diversity on brain-wide cellular and pathological changes in a novel Alzheimer’s disease mouse model. Manuscript in preparation.
+
 **QUINT**
 
 Yates SC, Groeneboom NE, Coello C, Lichtenthaler SF, Kuhn PH, Demuth HU,Hartlage-Rübsamen M, Roßner S, Leergaard T, Kreshuk A, Puchades MA, Bjaalie JG. QUINT: Workflow for quantification and spatial analysis of features in histological images from rodent brain. *Front Neuroinform.* 2019 Dec 3;13:75. https://doi.org/10.3389/fninf.2019.00075.
