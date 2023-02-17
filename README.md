@@ -6,12 +6,12 @@ https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspa
 
 https://quint-workflow.readthedocs.io/en/latest/ 
 
-**How to cite**
-------------------
+# How to cite
+
 
 **BRAINSPACE Project** 
 
-Gurdon B, Yates SC, et al. Detecting the effect of genetic diversity on brain-wide cellular and pathological changes in a novel Alzheimer’s disease mouse model. Manuscript in preparation.
+Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain-wide cellular and pathological changes in a diverse Alzheimer’s disease mouse model. Manuscript in preparation.
 
 **QUINT**
 
@@ -37,9 +37,13 @@ Groeneboom NE, Yates SC, Puchades MA and Bjaalie JG. Nutil: A Pre- and Post-proc
 
 Gurdon B, Yates SC, et al. Detecting the effect of genetic diversity on brain-wide cellular and pathological changes in a novel Alzheimer’s disease mouse model. Manuscript in preparation. 
 
-**Acknowledgements**
--------------------------
+# Acknowledgements
 
 The BRAINSPACE project received support from the EBRAINS infrastructure with funding from the European Union’s Horizon 2020 Framework Programme for Research and Innovation under the Framework Partnership Agreement No. 650003 (HBP FPA).
+
+# Contact us
+
+For advice on using the tools in the QUINT workflow, contact: support@ebrains.eu
+
 
 
