@@ -11,7 +11,7 @@ https://quint-workflow.readthedocs.io/en/latest/
 
 **BRAINSPACE Project** 
 
-Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain-wide cellular and pathological changes in a diverse Alzheimer’s disease mouse model. Manuscript in preparation.
+Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain composition in an Alzheimer’s disease mouse model. Manuscript in preparation.
 
 **QUINT**
 
