@@ -14,17 +14,19 @@ The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysi
 
 The `NutilFileExample.nut` lists the Nutil parameters used for the study. 
 
+The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
+
 The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
 
-* The `ANOVA_Wilcoxon_Statistics.R` script
+* `ANOVA_Wilcoxon_Statistics.R` 
 
-* The `CompileNutilOutput_IntermediateRegions.R` script
+* `CompileNutilOutput_IntermediateRegions.R` 
 
-* The `CompileQCAlignOutput.R` script
+* `CompileQCAlignOutput.R` 
 
-* The `MultilevelCorrelations_SampleMatch.R` script
+* `MultilevelCorrelations_SampleMatch.R`
 
-* The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
+
 
  
 
