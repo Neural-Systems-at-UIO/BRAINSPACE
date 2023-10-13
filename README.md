@@ -8,7 +8,7 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 # Overview of files
 
-The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters selected for the BRAINSPACE project. The test datasets contained objects of known size and spatial location and were processed with Nutil Quantifier with the parameters specified in the .NUT file. For both datasets, the Nutil output matched the ground truth for the dataset. The Nutil software has also been extensively validated outside of this project for other parameter combinations. 
+The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters selected for the BRAINSPACE project. The test datasets contained objects of known size and spatial location and were processed with Nutil Quantifier with the parameters specified in the .NUT file. For both datasets, the Nutil output matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been extensively validated outside of this project for other parameter combinations. 
 
 The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BRAINSPACE project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
 
