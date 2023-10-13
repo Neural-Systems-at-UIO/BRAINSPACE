@@ -12,11 +12,19 @@ The `Nutil_Validation` folder contains the dataset used to validate Nutil Quanti
 
 The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
 
-The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
+* The `ANOVA_Wilcoxon_Statistics.R` script
 
-The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
+* The `CompileNutilOutput_IntermediateRegions.R` script
 
-The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
+* The `CompileQCAlignOutput.R` script
+
+* The `MultilevelCorrelations_SampleMatch.R` script
+
+* The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
+
+* The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
+
+* The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
 
 # How to cite
 
