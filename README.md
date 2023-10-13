@@ -2,9 +2,9 @@
 
 This repository contains scripts and files relating to the BRAINSPACE project for the analysis of data with/from the QCAlign software and Nutil software.
 
-More info on the BRAINSPACE project: https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspace/ 
+More info on the [BRAINSPACE project] (https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspace/) 
 
-More info on the QUINT workflow: https://quint-workflow.readthedocs.io/en/latest/ 
+More info on the [QUINT workflow] (https://quint-workflow.readthedocs.io/en/latest/)
 
 # How to cite
 
