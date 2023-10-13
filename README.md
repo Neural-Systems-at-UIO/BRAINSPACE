@@ -12,12 +12,18 @@ The `Nutil_Validation` folder contains the dataset used to validate Nutil Quanti
 
 The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
 
+The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
+
+The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
+
+The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
+
 # How to cite
 
 
 **BRAINSPACE Project** 
 
-Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain composition in an Alzheimer’s disease mouse model. Manuscript in preparation.
+Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain composition in an Alzheimer’s disease mouse model. BioRxiv Preprint. https://doi.org/10.1101/2023.02.27.530226 
 
 **QUINT**
 
