@@ -22,9 +22,9 @@ The `Scripts` folder contains R scripts relating to analysis of Nutil output and
 
 * The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
 
-* The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
+The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
 
-* The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
+The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
 
 # How to cite
 
