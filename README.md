@@ -10,6 +10,10 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 The `Nutil_Validation` folder contains the dataset used to validate Nutil Quantifier v0.7.0 for the parameters used for the 40 brain pilot of 5XFAD mice. It contains atlas maps and segmentation files corresponding to a dataset with objects of known size and spatial location. The dataset was run through Nutil v0.7.0 with the parameters specified in the .NUT file. The output of the Nutil analysis matched the ground truth for the dataset. 
 
+The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
+
+The `NutilFileExample.nut` lists the Nutil parameters used for the study. 
+
 The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
 
 * The `ANOVA_Wilcoxon_Statistics.R` script
@@ -22,9 +26,7 @@ The `Scripts` folder contains R scripts relating to analysis of Nutil output and
 
 * The `SupplementaryTables` folder contains supplementary tables for the BrainSpace article. 
 
-The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BrainSpace project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below. 
-
-The `NutilFileExample.nut` lists the Nutil parameters used for the study.  
+ 
 
 # How to cite
 
