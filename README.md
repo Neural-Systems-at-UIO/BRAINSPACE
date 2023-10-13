@@ -6,6 +6,10 @@ More information on the [BRAINSPACE project](https://www.humanbrainproject.eu/en
 
 More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/en/latest/).
 
+# Overview of files
+
+* The Nutil validation folder contains the dataset used to validate Nutil Quantifier v0.7.0 for the parameters used for the 40 brain pilot of 5XFAD mice. It contains atlas maps and segmentation files corresponding to a dataset with objects of known size and spatial location. The dataset was run through Nutil v0.7.0 with the parameters specified in the .NUT file. The output of the Nutil analysis matched the ground truth for the dataset. 
+
 # How to cite
 
 
