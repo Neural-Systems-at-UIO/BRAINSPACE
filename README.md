@@ -16,7 +16,7 @@ The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE st
 
 The `SupplementaryTables` folder contains supplementary tables for the BRAINSPACE article. 
 
-The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
+The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more details of the purpose, input and output of these scripts. 
 
 * `CompileNutilOutput_IntermediateRegions.R`. Purpose
 
