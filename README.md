@@ -18,9 +18,9 @@ The `SupplementaryTables` folder contains supplementary tables for the BRAINSPAC
 
 The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. 
 
-* `ANOVA_Wilcoxon_Statistics.R` 
+* `CompileNutilOutput_IntermediateRegions.R`. Purpose
 
-* `CompileNutilOutput_IntermediateRegions.R` 
+* `ANOVA_Wilcoxon_Statistics.R` 
 
 * `CompileQCAlignOutput.R` 
 
