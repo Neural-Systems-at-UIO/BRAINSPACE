@@ -8,7 +8,7 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 # Overview of files
 
-The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters used in the BRAINSPACE project. The test datasets contain objects of known size and anatomical location. They were analysed with Nutil Quantifier with the parameters in the NutilFileExample.nut file. For both datasets, the results from the Nutil software matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated with other datasets and parameter combinations as described in the documentation.
+The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters used in the BRAINSPACE project. The test datasets contain objects of known size and anatomical location. They were analysed with Nutil Quantifier with the parameters in NutilFileExample.nut. For both datasets, the results from the Nutil software matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated with other datasets and parameters as described in the user documentation.
 
 The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE project.
 
