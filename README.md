@@ -1,6 +1,6 @@
 # BRAINSPACE
 
-This repository contains scripts and files relating to the BRAINSPACE project for the analysis of data from the QUINT workflow. The scripts were used to analyse the data which is publicly shared [here](https://search.kg.ebrains.eu/instances/e5f79837-c907-4439-8f31-dc4c601990fa) and described in the [BRAINSPACE article](https://www.biorxiv.org/content/10.1101/2023.02.27.530226v1). 
+This repository contains scripts and files relating to the BRAINSPACE project for the analysis of data from the QUINT workflow. The scripts were used to analyse the data described in the [BRAINSPACE article](https://www.biorxiv.org/content/10.1101/2023.02.27.530226v1) and publicly shared in the [EBRAINS repository](https://search.kg.ebrains.eu/instances/e5f79837-c907-4439-8f31-dc4c601990fa).
 
 More information on the [BRAINSPACE project](https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspace/). 
 
