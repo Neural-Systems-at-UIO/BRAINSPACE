@@ -1,0 +1,1726 @@
+parent.description,child.description
+Autophagy,Autophagy
+Autophagy,Macroautophagy
+Autophagy,Selective autophagy
+Autophagy,Mitophagy
+Autophagy,Aggrephagy
+Autophagy,Pink/Parkin Mediated Mitophagy
+Autophagy,Receptor Mediated Mitophagy
+Autophagy,NA
+Cell Cycle,Cell Cycle
+Cell Cycle,"Cell Cycle, Mitotic"
+Cell Cycle,Cell Cycle Checkpoints
+Cell Cycle,Chromosome Maintenance
+Cell Cycle,Regulation of mitotic cell cycle
+Cell Cycle,S Phase
+Cell Cycle,G1/S DNA Damage Checkpoints
+Cell Cycle,M Phase
+Cell Cycle,Mitotic G2-G2/M phases
+Cell Cycle,Ubiquitin-dependent degradation of Cyclin D1
+Cell Cycle,SCF-beta-TrCP mediated degradation of Emi1
+Cell Cycle,Mitotic Spindle Checkpoint
+Cell Cycle,Telomere Maintenance
+Cell Cycle,Mitotic G1 phase and G1/S transition
+Cell Cycle,G2/M Checkpoints
+Cell Cycle,Nucleosome assembly
+Cell Cycle,APC/C-mediated degradation of cell cycle proteins
+Cell Cycle,Synthesis of DNA
+Cell Cycle,p53-Dependent G1/S DNA damage checkpoint
+Cell Cycle,Mitotic Metaphase and Anaphase
+Cell Cycle,G2/M Transition
+Cell Cycle,Inhibition of the proteolytic activity of APC/C required for the onset of anaphase by mitotic spindle checkpoint components
+Cell Cycle,Extension of Telomeres
+Cell Cycle,Mitotic Prophase
+Cell Cycle,G1/S Transition
+Cell Cycle,p53-Independent G1/S DNA damage checkpoint
+Cell Cycle,Amplification of signal from the kinetochores
+Cell Cycle,G2/M DNA damage checkpoint
+Cell Cycle,Mitotic Telophase/Cytokinesis
+Cell Cycle,Mitotic Prometaphase
+Cell Cycle,G1 Phase
+Cell Cycle,G2 Phase
+Cell Cycle,Cyclin A:Cdk2-associated events at S phase entry
+Cell Cycle,Activation of ATR in response to replication stress
+Cell Cycle,Deposition of new CENPA-containing nucleosomes at the centromere
+Cell Cycle,Ubiquitin-dependent degradation of Cyclin D
+Cell Cycle,Establishment of Sister Chromatid Cohesion
+Cell Cycle,G0 and Early G1
+Cell Cycle,G2/M DNA replication checkpoint
+Cell Cycle,Packaging Of Telomere Ends
+Cell Cycle,Activation of APC/C and APC/C:Cdc20 mediated degradation of mitotic proteins
+Cell Cycle,DNA strand elongation
+Cell Cycle,p53-Dependent G1 DNA Damage Response
+Cell Cycle,Regulation of APC/C activators between G1/S and early anaphase
+Cell Cycle,Mitotic Anaphase
+Cell Cycle,Centrosome maturation
+Cell Cycle,Inactivation of APC/C via direct inhibition of the APC/C complex
+Cell Cycle,Telomere C-strand (Lagging Strand) Synthesis
+Cell Cycle,Nuclear Envelope Breakdown
+Cell Cycle,Switching of origins to a post-replicative state
+Cell Cycle,E2F mediated regulation of DNA replication
+Cell Cycle,Cyclin E associated events during G1/S transition
+Cell Cycle,Telomere Extension By Telomerase
+Cell Cycle,p53-Independent DNA Damage Response
+Cell Cycle,Activation of the pre-replicative complex
+Cell Cycle,Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal
+Cell Cycle,APC/C:Cdh1 mediated degradation of Cdc20 and other APC/C:Cdh1 targeted proteins in late mitosis/early G1
+Cell Cycle,AURKA Activation by TPX2
+Cell Cycle,Autodegradation of Cdh1 by Cdh1:APC/C
+Cell Cycle,Chk1/Chk2(Cds1) mediated inactivation of Cyclin B:Cdk1 complex
+Cell Cycle,Cohesin Loading onto Chromatin
+Cell Cycle,Condensation of Prometaphase Chromosomes
+Cell Cycle,Condensation of Prophase Chromosomes
+Cell Cycle,Conversion from APC/C:Cdc20 to APC/C:Cdh1 in late anaphase
+Cell Cycle,Cyclin A/B1/B2 associated events during G2/M transition
+Cell Cycle,Cyclin D associated events in G1
+Cell Cycle,DNA replication initiation
+Cell Cycle,EML4 and NUDC in mitotic spindle formation
+Cell Cycle,FBXL7 down-regulates AURKA during mitotic entry and in early mitosis
+Cell Cycle,Golgi Cisternae Pericentriolar Stack Reorganization
+Cell Cycle,Interaction between PHLDA1 and AURKA
+Cell Cycle,Mitotic G1-G1/S phases
+Cell Cycle,MASTL Facilitates Mitotic Progression
+Cell Cycle,Mitotic Metaphase/Anaphase Transition
+Cell Cycle,Polo-like kinase mediated events
+Cell Cycle,Recruitment of NuMA to mitotic centrosomes
+Cell Cycle,Regulation of PLK1 Activity at G2/M Transition
+Cell Cycle,Resolution of Sister Chromatid Cohesion
+Cell Cycle,SCF(Skp2)-mediated degradation of p27/p21
+Cell Cycle,The role of GTSE1 in G2/M progression after G2 checkpoint
+Cell Cycle,APC/C:Cdc20 mediated degradation of mitotic proteins
+Cell Cycle,Lagging Strand Synthesis
+Cell Cycle,Stabilization of p53
+Cell Cycle,Nuclear Envelope Reassembly
+Cell Cycle,Loss of proteins required for interphase microtubule organization from the centrosome
+Cell Cycle,Leading Strand Synthesis
+Cell Cycle,Processive synthesis on the C-strand of the telomere
+Cell Cycle,Transcriptional activation of p53 responsive genes  
+Cell Cycle,"Activation of NIMA Kinases NEK9, NEK6, NEK7"
+Cell Cycle,CDK-mediated phosphorylation and removal of Cdc6
+Cell Cycle,Depolymerisation of the Nuclear Lamina
+Cell Cycle,Inhibition of replication initiation of damaged DNA by RB1/E2F1
+Cell Cycle,Nuclear Pore Complex (NPC) Disassembly
+Cell Cycle,Orc1 removal from chromatin
+Cell Cycle,Phosphorylation of Emi1
+Cell Cycle,Phosphorylation of proteins involved in G1/S transition by active Cyclin E:Cdk2 complexes
+Cell Cycle,Phosphorylation of the APC/C
+Cell Cycle,Polymerase switching on the C-strand of the telomere
+Cell Cycle,Recruitment of mitotic centrosome proteins and complexes
+Cell Cycle,Separation of Sister Chromatids
+Cell Cycle,Telomere C-strand synthesis initiation
+Cell Cycle,Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+Cell Cycle,Unwinding of DNA
+Cell Cycle,APC:Cdc20 mediated degradation of cell cycle proteins prior to satisfation of the cell cycle checkpoint
+Cell Cycle,Processive synthesis on the lagging strand
+Cell Cycle,APC/C:Cdc20 mediated degradation of Cyclin B
+Cell Cycle,APC/C:Cdc20 mediated degradation of Securin
+Cell Cycle,Autodegradation of the E3 ubiquitin ligase COP1
+Cell Cycle,Initiation of Nuclear Envelope Reformation
+Cell Cycle,Loss of Nlp from mitotic centrosomes
+Cell Cycle,Polymerase switching
+Cell Cycle,Removal of the Flap Intermediate from the C-strand
+Cell Cycle,Transcriptional  activation of  cell cycle inhibitor p21 
+Cell Cycle,APC-Cdc20 mediated degradation of Nek2A
+Cell Cycle,Cdc20:Phospho-APC/C mediated degradation of Cyclin A
+Cell Cycle,Removal of the Flap Intermediate
+Cell-Cell communication,Cell-Cell communication
+Cell-Cell communication,Cell junction organization
+Cell-Cell communication,Signal regulatory protein family interactions
+Cell-Cell communication,Nephrin family interactions
+Cell-Cell communication,Cell-cell junction organization
+Cell-Cell communication,Cell-extracellular matrix interactions
+Cell-Cell communication,NA
+Cell-Cell communication,Type I hemidesmosome assembly
+Cell-Cell communication,Adherens junctions interactions
+Cell-Cell communication,Localization of the PINCH-ILK-PARVIN complex to focal adhesions
+Cell-Cell communication,Regulation of cytoskeletal remodeling and cell spreading by IPP complex components
+Cell-Cell communication,Tight junction interactions
+Cell-Cell communication,SDK interactions
+Cell-Cell communication,Nectin/Necl  trans heterodimerization
+Cellular responses to external stimuli,Cellular responses to external stimuli
+Cellular responses to external stimuli,Regulation of Hypoxia-inducible Factor (HIF) by oxygen
+Cellular responses to external stimuli,Cellular responses to stress
+Cellular responses to external stimuli,Response to metal ions
+Cellular responses to external stimuli,Cellular response to heat stress
+Cellular responses to external stimuli,Cellular Senescence
+Cellular responses to external stimuli,Cellular response to hypoxia
+Cellular responses to external stimuli,HSP90 chaperone cycle for steroid hormone receptors (SHR)
+Cellular responses to external stimuli,Metallothioneins bind metals
+Cellular responses to external stimuli,Detoxification of Reactive Oxygen Species
+Cellular responses to external stimuli,Amino acids regulate mTORC1
+Cellular responses to external stimuli,HSF1-dependent transactivation
+Cellular responses to external stimuli,DNA Damage/Telomere Stress Induced Senescence
+Cellular responses to external stimuli,Oncogene Induced Senescence
+Cellular responses to external stimuli,HSF1 activation
+Cellular responses to external stimuli,Regulation of HSF1-mediated heat shock response
+Cellular responses to external stimuli,Oxidative Stress Induced Senescence
+Cellular responses to external stimuli,Oxygen-dependent proline hydroxylation of Hypoxia-inducible Factor Alpha
+Cellular responses to external stimuli,Senescence-Associated Secretory Phenotype (SASP)
+Cellular responses to external stimuli,Regulation of gene expression by Hypoxia-inducible Factor
+Cellular responses to external stimuli,NA
+Cellular responses to external stimuli,Attenuation phase
+Cellular responses to external stimuli,Formation of Senescence-Associated Heterochromatin Foci (SAHF)
+Chromatin organization,HATs acetylate histones
+Chromatin organization,Chromatin organization
+Chromatin organization,Chromatin modifying enzymes
+Chromatin organization,HDACs deacetylate histones
+Chromatin organization,HDMs demethylate histones
+Chromatin organization,PKMTs methylate histone lysines
+Chromatin organization,RMTs methylate histone arginines
+Chromatin organization,HDACs deacetylate histones
+Developmental Biology,Developmental Biology
+Developmental Biology,Axon guidance
+Developmental Biology,Transcriptional regulation of white adipocyte differentiation
+Developmental Biology,Transcriptional regulation of granulopoiesis
+Developmental Biology,Regulation of beta-cell development
+Developmental Biology,LGI-ADAM interactions
+Developmental Biology,Signaling by NODAL
+Developmental Biology,Keratinization
+Developmental Biology,Myogenesis
+Developmental Biology,EPH-Ephrin signaling
+Developmental Biology,Netrin-1 signaling
+Developmental Biology,CDO in myogenesis
+Developmental Biology,Semaphorin interactions
+Developmental Biology,Signaling by ROBO receptors
+Developmental Biology,Regulation of gene expression in beta cells
+Developmental Biology,L1CAM interactions
+Developmental Biology,NCAM signaling for neurite out-growth
+Developmental Biology,Reelin signalling pathway
+Developmental Biology,Formation of the cornified envelope
+Developmental Biology,RET signaling
+Developmental Biology,Ephrin signaling
+Developmental Biology,EPHB-mediated forward signaling
+Developmental Biology,DSCAM interactions
+Developmental Biology,EPHA-mediated growth cone collapse
+Developmental Biology,Sema4D in semaphorin signaling
+Developmental Biology,Role of ABL in ROBO-SLIT signaling
+Developmental Biology,AKT-mediated inactivation of FOXO1A
+Developmental Biology,CRMPs in Sema3A signaling
+Developmental Biology,DCC mediated attractive signaling
+Developmental Biology,EPH-ephrin mediated repulsion of cells
+Developmental Biology,Neurofascin interactions
+Developmental Biology,Interaction between L1 and Ankyrins
+Developmental Biology,Regulation of expression of SLITs and ROBOs
+Developmental Biology,Signal transduction by L1
+Developmental Biology,NCAM1 interactions
+Developmental Biology,Other semaphorin interactions
+Developmental Biology,SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+Developmental Biology,Sema3A PAK dependent Axon repulsion
+Developmental Biology,SLIT2:ROBO1 increases RHOA activity
+Developmental Biology,Recycling pathway of L1
+Developmental Biology,Sema4D induced cell migration and growth-cone collapse
+Developmental Biology,Sema4D mediated inhibition of cell attachment and migration
+Digestion and absorption,Digestion and absorption
+Digestion and absorption,Digestion
+Digestion and absorption,Intestinal absorption
+Digestion and absorption,Digestion of dietary lipid
+Digestion and absorption,Intestinal hexose absorption
+Digestion and absorption,Digestion of dietary carbohydrate
+Digestion and absorption,NA
+DNA Repair,DNA Repair
+DNA Repair,Base Excision Repair
+DNA Repair,DNA Double-Strand Break Repair
+DNA Repair,Nucleotide Excision Repair
+DNA Repair,DNA Damage Bypass
+DNA Repair,Mismatch Repair
+DNA Repair,Fanconi Anemia Pathway
+DNA Repair,DNA Damage Reversal
+DNA Repair,"Base-Excision Repair, AP Site Formation"
+DNA Repair,Homology Directed Repair
+DNA Repair,Resolution of Abasic Sites (AP sites)
+DNA Repair,Transcription-Coupled Nucleotide Excision Repair (TC-NER)
+DNA Repair,Global Genome Nucleotide Excision Repair (GG-NER)
+DNA Repair,Translesion synthesis by Y family DNA polymerases bypasses lesions on DNA template
+DNA Repair,DNA Double Strand Break Response
+DNA Repair,Mismatch repair (MMR) directed by MSH2:MSH6 (MutSalpha)
+DNA Repair,Nonhomologous End-Joining (NHEJ)
+DNA Repair,Mismatch repair (MMR) directed by MSH2:MSH3 (MutSbeta)
+DNA Repair,NA
+DNA Repair,Reversal of alkylation damage by DNA dioxygenases
+DNA Repair,Recognition of DNA damage by PCNA-containing replication complex
+DNA Repair,Depyrimidination
+DNA Repair,HDR through Homologous Recombination (HRR) or Single Strand Annealing (SSA)
+DNA Repair,Resolution of AP sites via the single-nucleotide replacement pathway
+DNA Repair,Depurination
+DNA Repair,Displacement of DNA glycosylase by APEX1
+DNA Repair,Formation of TC-NER Pre-Incision Complex
+DNA Repair,Dual Incision in GG-NER
+DNA Repair,Resolution of AP sites via the multiple-nucleotide patch replacement pathway
+DNA Repair,Translesion synthesis by POLI
+DNA Repair,APEX1-Independent Resolution of AP Sites via the Single Nucleotide Replacement Pathway
+DNA Repair,DNA Damage Recognition in GG-NER
+DNA Repair,Dual incision in TC-NER
+DNA Repair,HDR through MMEJ (alt-NHEJ)
+DNA Repair,Formation of Incision Complex in GG-NER
+DNA Repair,Gap-filling DNA repair synthesis and ligation in GG-NER
+DNA Repair,Gap-filling DNA repair synthesis and ligation in TC-NER
+DNA Repair,Translesion synthesis by POLK
+DNA Repair,Translesion synthesis by REV1
+DNA Repair,Recruitment and ATM-mediated phosphorylation of repair and signaling proteins at DNA double strand breaks
+DNA Repair,Sensing of DNA Double Strand Breaks
+DNA Repair,Termination of translesion DNA synthesis
+DNA Repair,Translesion Synthesis by POLH
+DNA Repair,Cleavage of the damaged pyrimidine 
+DNA Repair,HDR through Homologous Recombination (HRR)
+DNA Repair,Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+DNA Repair,Abasic sugar-phosphate removal via the single-nucleotide replacement pathway
+DNA Repair,Cleavage of the damaged purine
+DNA Repair,HDR through Single Strand Annealing (SSA)
+DNA Repair,PCNA-Dependent Long Patch Base Excision Repair
+DNA Repair,POLB-Dependent Long Patch Base Excision Repair
+DNA Repair,Processing of DNA double-strand break ends
+DNA Repair,Recognition and association of DNA glycosylase with site containing an affected purine
+DNA Repair,Homologous DNA Pairing and Strand Exchange
+DNA Repair,Resolution of D-Loop Structures
+DNA Repair,Presynaptic phase of homologous DNA pairing and strand exchange
+DNA Repair,Resolution of D-loop Structures through Holliday Junction Intermediates
+DNA Repair,Resolution of D-loop Structures through Synthesis-Dependent Strand Annealing (SDSA)
+DNA Replication,DNA Replication
+DNA Replication,Cleavage of Growing Transcript in the Termination Region
+DNA Replication,Synthesis of DNA
+DNA Replication,DNA Replication Pre-Initiation
+DNA Replication,DNA strand elongation
+DNA Replication,Assembly of the pre-replicative complex
+DNA Replication,Switching of origins to a post-replicative state
+DNA Replication,Activation of the pre-replicative complex
+DNA Replication,DNA replication initiation
+DNA Replication,Leading Strand Synthesis
+DNA Replication,Lagging Strand Synthesis
+DNA Replication,CDT1 association with the CDC6:ORC:origin complex
+DNA Replication,Assembly of the ORC complex at the origin of replication
+DNA Replication,CDC6 association with the ORC:origin complex
+DNA Replication,CDK-mediated phosphorylation and removal of Cdc6
+DNA Replication,Unwinding of DNA
+DNA Replication,Orc1 removal from chromatin
+DNA Replication,NA
+DNA Replication,Polymerase switching
+DNA Replication,Processive synthesis on the lagging strand
+DNA Replication,Removal of the Flap Intermediate
+Extracellular matrix organization,Extracellular matrix organization
+Extracellular matrix organization,Collagen formation
+Extracellular matrix organization,Degradation of the extracellular matrix
+Extracellular matrix organization,Elastic fibre formation
+Extracellular matrix organization,Integrin cell surface interactions
+Extracellular matrix organization,Invadopodia formation
+Extracellular matrix organization,Laminin interactions
+Extracellular matrix organization,ECM proteoglycans
+Extracellular matrix organization,Non-integrin membrane-ECM interactions
+Extracellular matrix organization,Fibronectin matrix formation
+Extracellular matrix organization,Collagen biosynthesis and modifying enzymes
+Extracellular matrix organization,Assembly of collagen fibrils and other multimeric structures
+Extracellular matrix organization,Activation of Matrix Metalloproteinases
+Extracellular matrix organization,Collagen degradation
+Extracellular matrix organization,Molecules associated with elastic fibres
+Extracellular matrix organization,NA
+Extracellular matrix organization,Syndecan interactions
+Extracellular matrix organization,Collagen chain trimerization
+Extracellular matrix organization,Anchoring fibril formation
+Extracellular matrix organization,Crosslinking of collagen fibrils
+Gene expression (Transcription),Gene expression (Transcription)
+Gene expression (Transcription),RNA Polymerase II Transcription
+Gene expression (Transcription),RNA Polymerase III Transcription
+Gene expression (Transcription),Epigenetic regulation of gene expression
+Gene expression (Transcription),RNA Polymerase I Transcription
+Gene expression (Transcription),Gene Silencing by RNA
+Gene expression (Transcription),Transcription from mitochondrial promoters
+Gene expression (Transcription),Generic Transcription Pathway
+Gene expression (Transcription),RNA Polymerase III Transcription Initiation
+Gene expression (Transcription),Positive epigenetic regulation of rRNA expression
+Gene expression (Transcription),RNA Polymerase II Transcription Elongation
+Gene expression (Transcription),RNA Polymerase I Transcription Termination
+Gene expression (Transcription),RNA Polymerase II Pre-transcription Events
+Gene expression (Transcription),Negative epigenetic regulation of rRNA expression
+Gene expression (Transcription),RNA Polymerase I Promoter Clearance
+Gene expression (Transcription),RNA Polymerase II Transcription Initiation And Promoter Clearance
+Gene expression (Transcription),MicroRNA (miRNA) biogenesis
+Gene expression (Transcription),RNA Polymerase II Transcription Termination
+Gene expression (Transcription),Transcriptional regulation by small RNAs
+Gene expression (Transcription),RNA polymerase II transcribes snRNA genes
+Gene expression (Transcription),Post-transcriptional silencing by small RNAs
+Gene expression (Transcription),RNA Pol II CTD phosphorylation and interaction with CE
+Gene expression (Transcription),PRC2 methylates histones and DNA
+Gene expression (Transcription),"TET1,2,3 and TDG demethylate DNA"
+Gene expression (Transcription),Small interfering RNA (siRNA) biogenesis
+Gene expression (Transcription),Mitochondrial transcription initiation
+Gene expression (Transcription),RNA Polymerase II Transcription Pre-Initiation And Promoter Opening
+Gene expression (Transcription),Mitochondrial transcription termination
+Gene expression (Transcription),FOXO-mediated transcription
+Gene expression (Transcription),Transcriptional Regulation by TP53
+Gene expression (Transcription),Transcriptional regulation by RUNX2
+Gene expression (Transcription),Transcriptional regulation by the AP-2 (TFAP2) family of transcription factors
+Gene expression (Transcription),Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+Gene expression (Transcription),Transcriptional Regulation by MECP2
+Gene expression (Transcription),Transcriptional regulation by RUNX1
+Gene expression (Transcription),Transcriptional regulation by RUNX3
+Gene expression (Transcription),RNA Polymerase III Transcription Initiation From Type 2 Promoter
+Gene expression (Transcription),RNA Polymerase III Transcription Initiation From Type 3 Promoter
+Gene expression (Transcription),B-WICH complex positively regulates rRNA expression
+Gene expression (Transcription),Formation of RNA Pol II elongation complex
+Gene expression (Transcription),NA
+Gene expression (Transcription),Formation of the Early Elongation Complex
+Gene expression (Transcription),NoRC negatively regulates rRNA expression
+Gene expression (Transcription),Notch-HLH transcription pathway
+Gene expression (Transcription),Nuclear Receptor transcription pathway
+Gene expression (Transcription),RNA Polymerase I Transcription Initiation
+Gene expression (Transcription),RNA Polymerase II Transcription Initiation
+Gene expression (Transcription),RNA Polymerase III Transcription Initiation From Type 1 Promoter
+Gene expression (Transcription),YAP1- and WWTR1 (TAZ)-stimulated gene expression
+Gene expression (Transcription),RNA Polymerase I Promoter Escape
+Gene expression (Transcription),RNA Polymerase I Promoter Opening
+Gene expression (Transcription),RNA Polymerase II Promoter Escape
+Gene expression (Transcription),Transcriptional Regulation by VENTX
+Gene expression (Transcription),SIRT1 negatively regulates rRNA expression
+Gene expression (Transcription),Transcriptional Regulation by E2F6
+Gene expression (Transcription),"FOXO-mediated transcription of oxidative stress, metabolic and neuronal genes"
+Gene expression (Transcription),Regulation of TP53 Activity
+Gene expression (Transcription),Regulation of FOXO transcriptional activity by acetylation
+Gene expression (Transcription),RUNX2 regulates bone development
+Gene expression (Transcription),TP53 Regulates Transcription of Cell Cycle Genes
+Gene expression (Transcription),TP53 Regulates Transcription of Cell Death Genes
+Gene expression (Transcription),TFAP2A acts as a transcriptional repressor during retinoic acid induced cell differentiation
+Gene expression (Transcription),Activation of the TFAP2 (AP-2) family of transcription factors
+Gene expression (Transcription),Downregulation of SMAD2/3:SMAD4 transcriptional activity
+Gene expression (Transcription),FOXO-mediated transcription of cell cycle genes
+Gene expression (Transcription),Negative regulation of activity of TFAP2 (AP-2) family transcription factors
+Gene expression (Transcription),Regulation of localization of FOXO transcription factors
+Gene expression (Transcription),Regulation of MECP2 expression and activity
+Gene expression (Transcription),Regulation of RUNX1 Expression and Activity
+Gene expression (Transcription),Regulation of RUNX2 expression and activity
+Gene expression (Transcription),Regulation of RUNX3 expression and activity
+Gene expression (Transcription),RUNX1 and FOXP3 control the development of regulatory T lymphocytes (Tregs)
+Gene expression (Transcription),RUNX1 interacts with co-factors whose precise effect on RUNX1 targets is not known
+Gene expression (Transcription),RUNX1 regulates estrogen receptor mediated transcription
+Gene expression (Transcription),RUNX1 regulates genes involved in megakaryocyte differentiation and platelet function
+Gene expression (Transcription),RUNX1 regulates transcription of genes involved in BCR signaling
+Gene expression (Transcription),RUNX1 regulates transcription of genes involved in differentiation of HSCs
+Gene expression (Transcription),RUNX1 regulates transcription of genes involved in differentiation of keratinocytes
+Gene expression (Transcription),RUNX1 regulates transcription of genes involved in differentiation of myeloid cells
+Gene expression (Transcription),RUNX1 regulates transcription of genes involved in interleukin signaling
+Gene expression (Transcription),RUNX3 regulates CDKN1A transcription
+Gene expression (Transcription),RUNX3 regulates NOTCH signaling
+Gene expression (Transcription),RUNX3 regulates p14-ARF
+Gene expression (Transcription),RUNX3 regulates WNT signaling
+Gene expression (Transcription),RUNX3 regulates YAP1-mediated transcription
+Gene expression (Transcription),SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Gene expression (Transcription),TFAP2 (AP-2) family regulates transcription of cell cycle factors
+Gene expression (Transcription),TFAP2 (AP-2) family regulates transcription of growth factors and their receptors
+Gene expression (Transcription),TP53 Regulates Metabolic Genes
+Gene expression (Transcription),TP53 Regulates Transcription of DNA Repair Genes
+Gene expression (Transcription),Regulation of TP53 Activity through Acetylation
+Gene expression (Transcription),Regulation of TP53 Expression and Degradation
+Gene expression (Transcription),Regulation of TP53 Activity through Association with Co-factors
+Gene expression (Transcription),Regulation of TP53 Activity through Methylation
+Gene expression (Transcription),Regulation of TP53 Activity through Phosphorylation
+Gene expression (Transcription),RUNX2 regulates osteoblast differentiation
+Gene expression (Transcription),TP53 regulates transcription of additional cell cycle genes whose exact role in the p53 pathway remain uncertain
+Gene expression (Transcription),TP53 Regulates Transcription of Caspase Activators and Caspases
+Gene expression (Transcription),TP53 Regulates Transcription of Death Receptors and Ligands
+Gene expression (Transcription),TP53 Regulates Transcription of Genes Involved in Cytochrome C Release
+Gene expression (Transcription),TP53 Regulates Transcription of Genes Involved in G1 Cell Cycle Arrest
+Gene expression (Transcription),TP53 Regulates Transcription of Genes Involved in G2 Cell Cycle Arrest
+Gene expression (Transcription),TP53 regulates transcription of several additional cell death genes whose specific roles in p53-dependent apoptosis remain uncertain
+Gene expression (Transcription),RNA Polymerase I Chain Elongation
+Gene expression (Transcription),PI5P Regulates TP53 Acetylation
+Gene expression (Transcription),Regulation of TP53 Degradation
+Gene expression (Transcription),Regulation of TP53 Expression
+Hemostasis,Cleavage of Growing Transcript in the Termination Region
+Hemostasis,"Platelet activation, signaling and aggregation"
+Hemostasis,Platelet homeostasis
+Hemostasis,Platelet Adhesion to exposed collagen
+Hemostasis,Cell surface interactions at the vascular wall
+Hemostasis,Formation of Fibrin Clot (Clotting Cascade)
+Hemostasis,Factors involved in megakaryocyte development and platelet production
+Hemostasis,Dissolution of Fibrin Clot
+Hemostasis,Platelet Aggregation (Plug Formation)
+Hemostasis,Platelet calcium homeostasis
+Hemostasis,Signal amplification
+Hemostasis,Effects of PIP2 hydrolysis
+Hemostasis,Nitric oxide stimulates guanylate cyclase
+Hemostasis,Response to elevated platelet cytosolic Ca2+
+Hemostasis,GP1b-IX-V activation signalling
+Hemostasis,Thrombin signalling through proteinase activated receptors (PARs)
+Hemostasis,Hemostasis
+Hemostasis,GPVI-mediated activation cascade
+Hemostasis,Basigin interactions
+Hemostasis,Intrinsic Pathway of Fibrin Clot Formation
+Hemostasis,Extrinsic Pathway of Fibrin Clot Formation
+Hemostasis,Kinesins
+Hemostasis,Common Pathway of Fibrin Clot Formation
+Hemostasis,Prostacyclin signalling through prostacyclin receptor
+Hemostasis,Tie2 Signaling
+Hemostasis,PECAM1 interactions
+Hemostasis,Platelet sensitization by LDL
+Hemostasis,Adrenaline signalling through Alpha-2 adrenergic receptor
+Hemostasis,Integrin signaling
+Hemostasis,Reduction of cytosolic Ca++ levels
+Hemostasis,ADP signalling through P2Y purinoceptor 1
+Hemostasis,ADP signalling through P2Y purinoceptor 12
+Hemostasis,Arachidonate production from DAG
+Hemostasis,cGMP effects
+Hemostasis,Disinhibition of SNARE formation
+Hemostasis,Elevation of cytosolic Ca2+ levels
+Hemostasis,Thromboxane signalling through TP receptor
+Hemostasis,Platelet degranulation
+Hemostasis,GRB2:SOS provides linkage to MAPK signaling for Integrins 
+Hemostasis,p130Cas linkage to MAPK signaling for integrins
+Immune System,Immune System
+Immune System,"ROS, RNS production in phagocytes"
+Immune System,Adaptive Immune System
+Immune System,Innate Immune System
+Immune System,Cytokine Signaling in Immune system
+Immune System,Costimulation by the CD28 family
+Immune System,Toll-like Receptor Cascades
+Immune System,Signaling by Interleukins
+Immune System,Complement cascade
+Immune System,Signaling by the B Cell Receptor (BCR)
+Immune System,FLT3 Signaling
+Immune System,Cytosolic sensors of pathogen-associated DNA
+Immune System,Interferon Signaling
+Immune System,Antimicrobial peptides
+Immune System,C-type lectin receptors (CLRs)
+Immune System,Class I MHC mediated antigen processing & presentation
+Immune System,Fc epsilon receptor (FCERI) signaling
+Immune System,TCR signaling
+Immune System,TNFR2 non-canonical NF-kB pathway
+Immune System,"Nucleotide-binding domain, leucine rich repeat containing receptor (NLR) signaling pathways"
+Immune System,DAP12 interactions
+Immune System,ROS and RNS production in phagocytes
+Immune System,Fcgamma receptor (FCGR) dependent phagocytosis
+Immune System,DDX58/IFIH1-mediated induction of interferon-alpha/beta
+Immune System,MHC class II antigen presentation
+Immune System,Advanced glycosylation endproduct receptor signaling
+Immune System,Alpha-protein kinase 1 signaling pathway
+Immune System,Butyrophilin (BTN) family interactions
+Immune System,Rap1 signalling
+Immune System,Prolactin receptor signaling
+Immune System,Growth hormone receptor signaling
+Immune System,Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+Immune System,Neutrophil degranulation
+Immune System,CD28 co-stimulation
+Immune System,Toll Like Receptor 2 (TLR2) Cascade
+Immune System,Toll Like Receptor 7/8 (TLR7/8) Cascade
+Immune System,Toll Like Receptor 9 (TLR9) Cascade
+Immune System,Toll Like Receptor 4 (TLR4) Cascade
+Immune System,Toll Like Receptor 5 (TLR5) Cascade
+Immune System,Toll Like Receptor 10 (TLR10) Cascade
+Immune System,Interleukin-17 signaling
+Immune System,Toll Like Receptor 3 (TLR3) Cascade
+Immune System,Initial triggering of complement
+Immune System,Antigen activates B Cell Receptor (BCR) leading to generation of second messengers
+Immune System,Interleukin-2 family signaling
+Immune System,Interleukin-1 family signaling
+Immune System,CD22 mediated BCR regulation
+Immune System,RAF/MAP kinase cascade
+Immune System,PI3K Cascade
+Immune System,ZBP1(DAI) mediated induction of type I IFNs
+Immune System,Interferon gamma signaling
+Immune System,Downstream signaling events of B Cell Receptor (BCR)
+Immune System,Defensins
+Immune System,CLEC7A (Dectin-1) signaling
+Immune System,Antigen processing-Cross presentation
+Immune System,DEx/H-box helicases activate type I IFN and inflammatory cytokines production
+Immune System,FCERI mediated NF-kB activation
+Immune System,"Antigen Presentation: Folding, assembly and peptide loading of class I MHC"
+Immune System,Interleukin-6 family signaling
+Immune System,Interleukin-12 family signaling
+Immune System,Interleukin-4 and Interleukin-13 signaling
+Immune System,Generation of second messenger molecules
+Immune System,"Interleukin-3, Interleukin-5 and GM-CSF signaling"
+Immune System,STING mediated induction of host immune responses
+Immune System,Antiviral mechanism by IFN-stimulated genes
+Immune System,Downstream TCR signaling
+Immune System,Regulation of Complement cascade
+Immune System,Metal sequestration by antimicrobial proteins
+Immune System,Interferon alpha/beta signaling
+Immune System,NIK-->noncanonical NF-kB signaling
+Immune System,PD-1 signaling
+Immune System,Inflammasomes
+Immune System,Activation of C3 and C5
+Immune System,Antigen processing: Ubiquitination & Proteasome degradation
+Immune System,CD209 (DC-SIGN) signaling
+Immune System,CTLA4 inhibitory signaling
+Immune System,DAP12 signaling
+Immune System,Dectin-2 family
+Immune System,Events associated with phagocytolytic activity of PMN cells
+Immune System,FCERI mediated Ca+2 mobilization
+Immune System,FCERI mediated MAPK activation
+Immune System,FCGR activation
+Immune System,Interleukin-20 family signaling
+Immune System,Ion influx/efflux at host-pathogen interface
+Immune System,NOD1/2 Signaling Pathway
+Immune System,Interleukin-10 signaling
+Immune System,Interleukin-7 signaling
+Immune System,LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production
+Immune System,Regulation of TLR by endogenous ligand
+Immune System,Negative regulators of DDX58/IFIH1 signaling
+Immune System,Other interleukin signaling
+Immune System,Terminal pathway of complement
+Immune System,Phosphorylation of CD3 and TCR zeta chains
+Immune System,Regulation of actin dynamics for phagocytic cup formation
+Immune System,Regulation of innate immune responses to cytosolic DNA
+Immune System,TNFs bind their physiological receptors
+Immune System,TRAF6 mediated IRF7 activation
+Immune System,Role of LAT2/NTAL/LAB on calcium mobilization
+Immune System,Role of phospholipids in phagocytosis
+Immune System,Translocation of ZAP-70 to Immunological synapse
+Immune System,NA
+Immune System,TNF receptor superfamily (TNFSF) members mediating non-canonical NF-kB pathway
+Immune System,TRAF3-dependent IRF activation pathway
+Immune System,TRAF6 mediated NF-kB activation
+Immune System,Trafficking and processing of endosomal TLR
+Immune System,CD28 dependent PI3K/Akt signaling
+Immune System,Toll Like Receptor TLR6:TLR2 Cascade
+Immune System,MyD88 dependent cascade initiated on endosome
+Immune System,Toll Like Receptor TLR1:TLR2 Cascade
+Immune System,MyD88-independent TLR4 cascade 
+Immune System,MyD88 cascade initiated on plasma membrane
+Immune System,MyD88:MAL(TIRAP) cascade initiated on plasma membrane
+Immune System,MAP kinase activation
+Immune System,Creation of C4 and C2 activators
+Immune System,Interleukin-15 signaling
+Immune System,Interleukin-37 signaling
+Immune System,Interleukin-9 signaling
+Immune System,Interleukin-1 signaling
+Immune System,RAF activation
+Immune System,Negative regulation of MAPK pathway
+Immune System,PKB-mediated events
+Immune System,RIP-mediated NFkB activation via ZBP1
+Immune System,Activation of AKT2
+Immune System,Regulation of IFNG signaling
+Immune System,Activation of NF-kappaB in B cells
+Immune System,Activation of RAS in B cells
+Immune System,Alpha-defensins
+Immune System,Alternative complement activation
+Immune System,Beta defensins
+Immune System,Calcineurin activates NFAT
+Immune System,CD28 dependent Vav1 pathway
+Immune System,CLEC7A (Dectin-1) induces NFAT activation
+Immune System,CLEC7A/inflammasome pathway
+Immune System,Cross-presentation of particulate exogenous antigens (phagosomes)
+Immune System,Cross-presentation of soluble exogenous antigens (endosomes)
+Immune System,Dectin-1 mediated noncanonical NF-kB signaling
+Immune System,TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+Immune System,Endosomal/Vacuolar pathway
+Immune System,ER-Phagosome pathway
+Immune System,IL-6-type cytokine receptor ligand interactions
+Immune System,Interleukin-1 processing
+Immune System,Interleukin-12 signaling
+Immune System,Interleukin-2 signaling
+Immune System,Interleukin-21 signaling
+Immune System,Interleukin-23 signaling
+Immune System,Interleukin-27 signaling
+Immune System,Interleukin-33 signaling
+Immune System,Interleukin-35 Signalling
+Immune System,Interleukin-36 pathway
+Immune System,Interleukin-38 signaling
+Immune System,Interleukin-6 signaling
+Immune System,Interleukin receptor SHC signaling
+Immune System,IRF3-mediated induction of type I IFN
+Immune System,IRF3 mediated activation of type 1 IFN
+Immune System,ISG15 antiviral mechanism
+Immune System,MAP2K and MAPK activation
+Immune System,OAS antiviral response
+Immune System,Regulation of IFNA signaling
+Immune System,Regulation of RAS by GAPs
+Immune System,Regulation of signaling by CBL
+Immune System,STAT6-mediated induction of chemokines
+Immune System,The AIM2 inflammasome
+Immune System,The NLRP1 inflammasome
+Immune System,The NLRP3 inflammasome
+Immune System,TICAM1-dependent activation of IRF3/IRF7
+Immune System,Transfer of LPS from LBP carrier to CD14
+Immune System,TRAF6 mediated induction of NFkB and MAP kinases upon TLR7/8 or 9 activation
+Immune System,TRIF(TICAM1)-mediated TLR4 signaling
+Immune System,MAPK targets/ Nuclear events mediated by MAP kinases
+Immune System,Lectin pathway of complement activation
+Immune System,activated TAK1 mediates p38 MAPK activation
+Immune System,Classical antibody-mediated complement activation
+Immune System,IRAK1 recruits IKK complex
+Immune System,IRAK2 mediated activation of TAK1 complex
+Immune System,JNK (c-Jun kinases) phosphorylation and  activation mediated by activated human TAK1
+Immune System,MAP3K8 (TPL2)-dependent MAPK1/3 activation
+Immune System,Negative feedback regulation of MAPK pathway
+Immune System,PDE3B signalling
+Immune System,TRAF6 mediated IRF7 activation in TLR7/8 or 9 signaling
+Immune System,ERK/MAPK targets
+Immune System,Activation of IRF3/IRF7 mediated by TBK1/IKK epsilon
+Immune System,Activation of the AP-1 family of transcription factors
+Immune System,CREB phosphorylation
+Immune System,Ficolins bind to repetitive carbohydrate structures on the target cell surface
+Immune System,IKK complex recruitment mediated by RIP1
+Immune System,IRAK1 recruits IKK complex upon TLR7/8 or 9 stimulation
+Immune System,IRAK2 mediated activation of TAK1 complex upon TLR7/8 or 9 stimulation
+Immune System,TRAF6-mediated induction of TAK1 complex within TLR4 complex
+Immune System,TRIF-mediated programmed cell death
+Immune System,ERKs are inactivated
+Metabolism,Metabolism
+Metabolism,Metabolism of lipids
+Metabolism,Integration of energy metabolism
+Metabolism,Biological oxidations
+Metabolism,Metabolism of carbohydrates
+Metabolism,Metabolism of vitamins and cofactors
+Metabolism,The citric acid (TCA) cycle and respiratory electron transport
+Metabolism,Metabolism of nucleotides
+Metabolism,Metabolism of amino acids and derivatives
+Metabolism,Metabolism of porphyrins
+Metabolism,Abacavir transport and metabolism
+Metabolism,Metabolism of nitric oxide: eNOS activation and regulation
+Metabolism,Inositol phosphate metabolism
+Metabolism,Pyrophosphate hydrolysis
+Metabolism,Reversible hydration of carbon dioxide
+Metabolism,Mitochondrial iron-sulfur cluster biogenesis
+Metabolism,Phospholipid metabolism
+Metabolism,Regulation of insulin secretion
+Metabolism,Phase II - Conjugation of compounds
+Metabolism,Glycosaminoglycan metabolism
+Metabolism,Fatty acid metabolism
+Metabolism,Biosynthesis of specialized proresolving mediators (SPMs)
+Metabolism,Phase I - Functionalization of compounds
+Metabolism,Glycogen metabolism
+Metabolism,Metabolism of steroids
+Metabolism,Metabolism of water-soluble vitamins and cofactors
+Metabolism,"Respiratory electron transport, ATP synthesis by chemiosmotic coupling, and heat production by uncoupling proteins."
+Metabolism,Fructose metabolism
+Metabolism,Nucleobase biosynthesis
+Metabolism,Sphingolipid metabolism
+Metabolism,Nucleobase catabolism
+Metabolism,Glucose metabolism
+Metabolism,Metabolism of cofactors
+Metabolism,Pyruvate metabolism and Citric Acid (TCA) cycle
+Metabolism,Metabolism of amine-derived hormones
+Metabolism,Sulfur amino acid metabolism
+Metabolism,Branched-chain amino acid catabolism
+Metabolism,Pentose phosphate pathway
+Metabolism,Blood group systems biosynthesis
+Metabolism,Metabolism of polyamines
+Metabolism,Amino acid synthesis and interconversion (transamination)
+Metabolism,Heme biosynthesis
+Metabolism,Wax and plasmalogen biosynthesis
+Metabolism,Abacavir metabolism
+Metabolism,Aspartate and asparagine metabolism
+Metabolism,Glutamate and glutamine metabolism
+Metabolism,Selenoamino acid metabolism
+Metabolism,Glyoxylate metabolism and glycine degradation
+Metabolism,Interconversion of nucleotide di- and triphosphates
+Metabolism,Melanin biosynthesis
+Metabolism,Phenylalanine and tyrosine metabolism
+Metabolism,Metabolism of fat-soluble vitamins
+Metabolism,NOSIP mediated eNOS trafficking
+Metabolism,Ketone body metabolism
+Metabolism,Synthesis of IP3 and IP4 in the cytosol
+Metabolism,Histidine catabolism
+Metabolism,Galactose catabolism
+Metabolism,Glucagon signaling in metabolic regulation
+Metabolism,Triglyceride metabolism
+Metabolism,Nucleotide salvage
+Metabolism,eNOS activation
+Metabolism,Lysosomal oligosaccharide catabolism
+Metabolism,Heme degradation
+Metabolism,Aflatoxin activation and detoxification
+Metabolism,Alanine metabolism
+Metabolism,Formation of xylulose-5-phosphate
+Metabolism,Carnitine synthesis
+Metabolism,Choline catabolism
+Metabolism,Lysine catabolism
+Metabolism,Lactose synthesis
+Metabolism,Lipid particle organization
+Metabolism,Threonine catabolism
+Metabolism,PKA-mediated phosphorylation of key metabolic factors
+Metabolism,Proline catabolism
+Metabolism,"Histidine, lysine, phenylalanine, tyrosine, proline and tryptophan catabolism"
+Metabolism,Insulin effects increased synthesis of Xylulose-5-Phosphate
+Metabolism,Synthesis of IPs in the ER lumen
+Metabolism,"Synthesis of IP2, IP, and Ins in the cytosol"
+Metabolism,ChREBP activates metabolic gene expression
+Metabolism,Abacavir transmembrane transport
+Metabolism,AMPK inhibits chREBP transcriptional activation activity
+Metabolism,Serine biosynthesis
+Metabolism,Creatine metabolism
+Metabolism,Electron transport from NADPH to Ferredoxin
+Metabolism,Regulation of lipid metabolism by PPARalpha
+Metabolism,Urea cycle
+Metabolism,NOSTRIN mediated eNOS trafficking
+Metabolism,Synthesis of pyrophosphates in the cytosol
+Metabolism,Tryptophan catabolism
+Metabolism,Synthesis of IPs in the nucleus
+Metabolism,Glycerophospholipid biosynthesis
+Metabolism,Free fatty acids regulate insulin secretion
+Metabolism,Glucuronidation
+Metabolism,Heparan sulfate/heparin (HS-GAG) metabolism
+Metabolism,Keratan sulfate/keratin metabolism
+Metabolism,Hyaluronan metabolism
+Metabolism,Mitochondrial Fatty Acid Beta-Oxidation
+Metabolism,Biosynthesis of DPA-derived SPMs
+Metabolism,Biosynthesis of DHA-derived SPMs
+Metabolism,Amino Acid conjugation
+Metabolism,Cytochrome P450 - arranged by substrate type
+Metabolism,Glycogen breakdown (glycogenolysis)
+Metabolism,Bile acid and bile salt metabolism
+Metabolism,Chondroitin sulfate/dermatan sulfate metabolism
+Metabolism,alpha-linolenic (omega3) and linoleic (omega6) acid metabolism
+Metabolism,Peroxisomal lipid metabolism
+Metabolism,Metabolism of steroid hormones
+Metabolism,Amine Oxidase reactions
+Metabolism,Biosynthesis of EPA-derived SPMs
+Metabolism,Cholesterol biosynthesis
+Metabolism,Carnitine metabolism
+Metabolism,Vitamin B5 (pantothenate) metabolism
+Metabolism,Respiratory electron transport
+Metabolism,Glutathione conjugation
+Metabolism,PI Metabolism
+Metabolism,Fructose catabolism
+Metabolism,Purine ribonucleoside monophosphate biosynthesis
+Metabolism,Glycosphingolipid metabolism
+Metabolism,Phosphate bond hydrolysis by NTPDase proteins
+Metabolism,Nicotinate metabolism
+Metabolism,Gluconeogenesis
+Metabolism,Glycogen synthesis
+Metabolism,Purine catabolism
+Metabolism,NADPH regeneration
+Metabolism,Glycolysis
+Metabolism,Pyruvate metabolism
+Metabolism,Thyroxine biosynthesis
+Metabolism,Serotonin and melatonin biosynthesis
+Metabolism,Degradation of cysteine and homocysteine
+Metabolism,Arachidonic acid metabolism
+Metabolism,Fatty acyl-CoA biosynthesis
+Metabolism,Mitochondrial Uncoupling Proteins
+Metabolism,Cytosolic sulfonation of small molecules
+Metabolism,5-Phosphoribose 1-diphosphate biosynthesis
+Metabolism,ABO blood group biosynthesis
+Metabolism,Acetylation
+Metabolism,Acetylcholine regulates insulin secretion
+Metabolism,"Adrenaline,noradrenaline inhibits insulin secretion"
+Metabolism,Agmatine biosynthesis
+Metabolism,Aryl hydrocarbon receptor signalling
+Metabolism,Biosynthesis of electrophilic ω-3 PUFA oxo-derivatives
+Metabolism,Biotin transport and metabolism
+Metabolism,Catecholamine biosynthesis
+Metabolism,Vitamin B2 (riboflavin) metabolism
+Metabolism,Citric acid cycle (TCA cycle)
+Metabolism,"Cobalamin (Cbl, vitamin B12) transport and metabolism"
+Metabolism,COX reactions
+Metabolism,Cysteine formation from homocysteine
+Metabolism,Vitamin C (ascorbate) metabolism
+Metabolism,Wax biosynthesis
+Metabolism,Ethanol oxidation
+Metabolism,FMO oxidises nucleophiles
+Metabolism,Formation of ATP by chemiosmotic coupling
+Metabolism,Fructose biosynthesis
+Metabolism,Glucagon-like Peptide-1 (GLP1) regulates insulin secretion
+Metabolism,Metabolism of ingested MeSeO2H into MeSeH
+Metabolism,Glycine degradation
+Metabolism,Molybdenum cofactor biosynthesis
+Metabolism,Interconversion of 2-oxoglutarate and 2-hydroxyglutarate
+Metabolism,Interconversion of polyamines
+Metabolism,Phenylalanine metabolism
+Metabolism,Lewis blood group biosynthesis
+Metabolism,Metabolism of folate and pterines
+Metabolism,"Metabolism of ingested SeMet, Sec, MeSec into H2Se"
+Metabolism,Metabolism of vitamin K
+Metabolism,Methionine salvage pathway
+Metabolism,Methylation
+Metabolism,Synthesis of Ketone Bodies
+Metabolism,Sphingolipid de novo biosynthesis
+Metabolism,Selenocysteine synthesis
+Metabolism,PKA activation in glucagon signalling
+Metabolism,Plasmalogen biosynthesis
+Metabolism,Triglyceride biosynthesis
+Metabolism,Purine salvage
+Metabolism,Pyrimidine biosynthesis
+Metabolism,Pyrimidine catabolism
+Metabolism,Pyrimidine salvage
+Metabolism,Regulation of cholesterol biosynthesis by SREBP (SREBF)
+Metabolism,"Tetrahydrobiopterin (BH4) synthesis, recycling, salvage and regulation"
+Metabolism,Regulation of ornithine decarboxylase (ODC)
+Metabolism,Retinoid metabolism and transport
+Metabolism,Tyrosine catabolism
+Metabolism,Vitamin D (calciferol) metabolism
+Metabolism,Transport and synthesis of PAPS
+Metabolism,Utilization of Ketone Bodies
+Metabolism,Vitamin E
+Metabolism,Synthesis of Lipoxins (LX)
+Metabolism,Vitamin B1 (thiamin) metabolism
+Metabolism,Vitamins B6 activation to pyridoxal phosphate
+Metabolism,Triglyceride catabolism
+Metabolism,Ubiquinol biosynthesis
+Metabolism,Synthesis of PI
+Metabolism,Fatty Acids bound to GPR40 (FFAR1) regulate insulin secretion
+Metabolism,"Formation of the active cofactor, UDP-glucuronate"
+Metabolism,HS-GAG biosynthesis
+Metabolism,Hydrolysis of LPC
+Metabolism,Intracellular metabolism of fatty acids regulates insulin secretion
+Metabolism,Keratan sulfate degradation
+Metabolism,Hyaluronan uptake and degradation
+Metabolism,mitochondrial fatty acid beta-oxidation of saturated fatty acids
+Metabolism,Biosynthesis of DPAn-3 SPMs
+Metabolism,Biosynthesis of maresins
+Metabolism,Biosynthesis of DHA-derived sulfido conjugates
+Metabolism,Conjugation of carboxylic acids
+Metabolism,Xenobiotics
+Metabolism,Endogenous sterols
+Metabolism,Synthesis of bile acids and bile salts
+Metabolism,A tetrasaccharide linker sequence is required for GAG synthesis
+Metabolism,Acyl chain remodeling of CL
+Metabolism,Acyl chain remodeling of DAG and TAG
+Metabolism,Acyl chain remodelling of PC
+Metabolism,Acyl chain remodelling of PE
+Metabolism,Acyl chain remodelling of PG
+Metabolism,Acyl chain remodelling of PI
+Metabolism,Acyl chain remodelling of PS
+Metabolism,alpha-linolenic acid (ALA) metabolism
+Metabolism,Alpha-oxidation of phytanate
+Metabolism,Androgen biosynthesis
+Metabolism,Beta-oxidation of pristanoyl-CoA
+Metabolism,Beta-oxidation of very long chain fatty acids
+Metabolism,Biogenic amines are oxidatively deaminated to aldehydes by MAOA and MAOB
+Metabolism,Biosynthesis of aspirin-triggered D-series resolvins
+Metabolism,Biosynthesis of D-series resolvins
+Metabolism,Biosynthesis of DPAn-6 SPMs
+Metabolism,Biosynthesis of E-series 18(R)-resolvins
+Metabolism,Biosynthesis of E-series 18(S)-resolvins
+Metabolism,Biosynthesis of protectins
+Metabolism,Cholesterol biosynthesis via desmosterol
+Metabolism,Cholesterol biosynthesis via lathosterol
+Metabolism,Chondroitin sulfate biosynthesis
+Metabolism,Coenzyme A biosynthesis
+Metabolism,Complex I biogenesis
+Metabolism,CS/DS degradation
+Metabolism,Dermatan sulfate biosynthesis
+Metabolism,Eicosanoids
+Metabolism,Estrogen biosynthesis
+Metabolism,Fatty acids
+Metabolism,Glucocorticoid biosynthesis
+Metabolism,Glutathione synthesis and recycling
+Metabolism,Glycerophospholipid catabolism
+Metabolism,HS-GAG degradation
+Metabolism,Hyaluronan biosynthesis and export
+Metabolism,Hydrolysis of LPE
+Metabolism,Keratan sulfate biosynthesis
+Metabolism,Linoleic acid (LA) metabolism
+Metabolism,Mineralocorticoid biosynthesis
+Metabolism,Miscellaneous substrates
+Metabolism,mitochondrial fatty acid beta-oxidation of unsaturated fatty acids
+Metabolism,Nicotinamide salvaging
+Metabolism,PAOs oxidise polyamines to amines
+Metabolism,Phosphate bond hydrolysis by NUDT proteins
+Metabolism,PI and PC transport between ER and Golgi membranes
+Metabolism,Pregnenolone biosynthesis
+Metabolism,Propionyl-CoA catabolism
+Metabolism,Recycling of bile acids and salts
+Metabolism,Regulation of Glucokinase by Glucokinase Regulatory Protein
+Metabolism,"Regulation of glycolysis by fructose 2,6-bisphosphate metabolism"
+Metabolism,Regulation of pyruvate dehydrogenase (PDH) complex
+Metabolism,Regulation of thyroid hormone activity
+Metabolism,Sulfide oxidation to sulfate
+Metabolism,Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)
+Metabolism,Synthesis of 12-eicosatetraenoic acid derivatives
+Metabolism,Synthesis of 15-eicosatetraenoic acid derivatives
+Metabolism,Synthesis of 5-eicosatetraenoic acids
+Metabolism,Synthesis of CL
+Metabolism,Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)
+Metabolism,Synthesis of Hepoxilins (HX) and Trioxilins (TrX)
+Metabolism,Synthesis of Leukotrienes (LT) and Eoxins (EX)
+Metabolism,Synthesis of PA
+Metabolism,Synthesis of PC
+Metabolism,Synthesis of PE
+Metabolism,Synthesis of PG
+Metabolism,Synthesis of PIPs at the early endosome membrane
+Metabolism,Synthesis of PIPs at the ER membrane
+Metabolism,Synthesis of PIPs at the Golgi membrane
+Metabolism,Synthesis of PIPs at the late endosome membrane
+Metabolism,Synthesis of PIPs at the plasma membrane
+Metabolism,Synthesis of PIPs in the nucleus
+Metabolism,Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+Metabolism,Synthesis of PS
+Metabolism,Synthesis of very long-chain fatty acyl-CoAs
+Metabolism,The fatty acid cycling model
+Metabolism,The proton buffering model
+Metabolism,Vitamins
+Metabolism,Beta oxidation of butanoyl-CoA to acetyl-CoA
+Metabolism,Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA
+Metabolism,Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+Metabolism,Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA
+Metabolism,Beta oxidation of myristoyl-CoA to lauroyl-CoA
+Metabolism,Beta oxidation of octanoyl-CoA to hexanoyl-CoA
+Metabolism,Beta oxidation of palmitoyl-CoA to myristoyl-CoA
+Metabolism,Biosynthesis of DPAn-3-derived 13-series resolvins
+Metabolism,Biosynthesis of DPAn-3-derived maresins
+Metabolism,Biosynthesis of DPAn-3-derived protectins and resolvins
+Metabolism,Biosynthesis of maresin-like SPMs
+Metabolism,Biosynthesis of maresin conjugates in tissue regeneration (MCTR)
+Metabolism,Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR)
+Metabolism,Conjugation of benzoate with glycine
+Metabolism,Conjugation of phenylacetate with glutamine
+Metabolism,Conjugation of salicylate with glycine
+Metabolism,CYP2E1 reactions
+Metabolism,Sterols are 12-hydroxylated by CYP8B1
+Metabolism,Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+Metabolism,Synthesis of bile acids and bile salts via 27-hydroxycholesterol
+Metabolism,Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+Metabolism of proteins,Metabolism of proteins
+Metabolism of proteins,Post-translational protein modification
+Metabolism of proteins,Translation
+Metabolism of proteins,Peptide hormone metabolism
+Metabolism of proteins,Protein folding
+Metabolism of proteins,Unfolded Protein Response (UPR)
+Metabolism of proteins,Surfactant metabolism
+Metabolism of proteins,Protein repair
+Metabolism of proteins,Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+Metabolism of proteins,Asparagine N-linked glycosylation
+Metabolism of proteins,Mitochondrial translation
+Metabolism of proteins,Eukaryotic Translation Initiation
+Metabolism of proteins,"Gamma carboxylation, hypusine formation and arylsulfatase activation"
+Metabolism of proteins,SUMOylation
+Metabolism of proteins,Deubiquitination
+Metabolism of proteins,O-linked glycosylation
+Metabolism of proteins,Eukaryotic Translation Termination
+Metabolism of proteins,"Incretin synthesis, secretion, and inactivation"
+Metabolism of proteins,tRNA Aminoacylation
+Metabolism of proteins,Chaperonin-mediated protein folding
+Metabolism of proteins,Post-translational modification: synthesis of GPI-anchored proteins
+Metabolism of proteins,Protein ubiquitination
+Metabolism of proteins,Post-translational protein phosphorylation
+Metabolism of proteins,Metabolism of Angiotensinogen to Angiotensins
+Metabolism of proteins,CREB3 factors activate genes
+Metabolism of proteins,Insulin processing
+Metabolism of proteins,Peptide hormone biosynthesis
+Metabolism of proteins,Eukaryotic Translation Elongation
+Metabolism of proteins,NA
+Metabolism of proteins,RAB geranylgeranylation
+Metabolism of proteins,Protein methylation
+Metabolism of proteins,ATF6 (ATF6-alpha) activates chaperones
+Metabolism of proteins,Carboxyterminal post-translational modifications of tubulin
+Metabolism of proteins,SRP-dependent cotranslational protein targeting to membrane
+Metabolism of proteins,"Synthesis, secretion, and deacylation of Ghrelin"
+Metabolism of proteins,PERK regulates gene expression
+Metabolism of proteins,Neddylation
+Metabolism of proteins,IRE1alpha activates chaperones
+Metabolism of proteins,Transport to the Golgi and subsequent modification
+Metabolism of proteins,N-glycan trimming in the ER and Calnexin/Calreticulin cycle
+Metabolism of proteins,"Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide, LLO) and transfer to a nascent protein"
+Metabolism of proteins,Mitochondrial translation elongation
+Metabolism of proteins,Cap-dependent Translation Initiation
+Metabolism of proteins,"Gamma-carboxylation, transport, and amino-terminal cleavage of proteins"
+Metabolism of proteins,SUMO E3 ligases SUMOylate target proteins
+Metabolism of proteins,Metalloprotease DUBs
+Metabolism of proteins,Processing and activation of SUMO
+Metabolism of proteins,O-linked glycosylation of mucins
+Metabolism of proteins,"Synthesis, secretion, and inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)"
+Metabolism of proteins,Cytosolic tRNA aminoacylation
+Metabolism of proteins,Association of TriC/CCT with target proteins during biosynthesis
+Metabolism of proteins,Attachment of GPI anchor to uPAR
+Metabolism of proteins,E3 ubiquitin ligases ubiquitinate target proteins
+Metabolism of proteins,Cooperation of PDCL (PhLP1) and TRiC/CCT in G-protein beta folding
+Metabolism of proteins,Glycoprotein hormones
+Metabolism of proteins,Hypusine synthesis from eIF5A-lysine
+Metabolism of proteins,Peptide chain elongation
+Metabolism of proteins,Josephin domain DUBs
+Metabolism of proteins,L13a-mediated translational silencing of Ceruloplasmin expression
+Metabolism of proteins,Mitochondrial translation termination
+Metabolism of proteins,Mitochondrial tRNA aminoacylation
+Metabolism of proteins,UCH proteinases
+Metabolism of proteins,O-glycosylation of TSR domain-containing proteins
+Metabolism of proteins,Ovarian tumor domain proteases
+Metabolism of proteins,The activation of arylsulfatases
+Metabolism of proteins,Ub-specific processing proteases
+Metabolism of proteins,Synthesis of active ubiquitin: roles of E1 and E2 enzymes
+Metabolism of proteins,Synthesis of diphthamide-EEF2
+Metabolism of proteins,Synthesis of dolichyl-phosphate mannose
+Metabolism of proteins,Synthesis of glycosylphosphatidylinositol (GPI)
+Metabolism of proteins,"Synthesis, secretion, and inactivation of Glucagon-like Peptide-1 (GLP-1)"
+Metabolism of proteins,ER to Golgi Anterograde Transport
+Metabolism of proteins,Calnexin/calreticulin cycle
+Metabolism of proteins,Synthesis of substrates in N-glycan biosythesis
+Metabolism of proteins,N-glycan antennae elongation in the medial/trans-Golgi
+Metabolism of proteins,N-glycan trimming and elongation in the cis-Golgi
+Metabolism of proteins,"Activation of the mRNA upon binding of the cap-binding complex and eIFs, and subsequent binding to 43S"
+Metabolism of proteins,Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus
+Metabolism of proteins,SUMOylation of DNA damage response and repair proteins
+Metabolism of proteins,SUMOylation of SUMOylation proteins
+Metabolism of proteins,Formation of a pool of free 40S subunits
+Metabolism of proteins,"Formation of the ternary complex, and subsequently, the 43S complex"
+Metabolism of proteins,Gamma-carboxylation of protein precursors
+Metabolism of proteins,GTP hydrolysis and joining of the 60S ribosomal subunit
+Metabolism of proteins,Recycling of eIF2:GDP
+Metabolism of proteins,Removal of aminoterminal propeptides from gamma-carboxylated proteins
+Metabolism of proteins,Ribosomal scanning and start codon recognition
+Metabolism of proteins,SUMO is conjugated to E1 (UBA2:SAE1)
+Metabolism of proteins,SUMO is proteolytically processed
+Metabolism of proteins,"SUMO is transferred from E1 to E2 (UBE2I, UBC9)"
+Metabolism of proteins,SUMOylation of chromatin organization proteins
+Metabolism of proteins,SUMOylation of DNA methylation proteins
+Metabolism of proteins,SUMOylation of DNA replication proteins
+Metabolism of proteins,SUMOylation of immune response proteins
+Metabolism of proteins,SUMOylation of intracellular receptors
+Metabolism of proteins,SUMOylation of RNA binding proteins
+Metabolism of proteins,SUMOylation of transcription cofactors
+Metabolism of proteins,SUMOylation of transcription factors
+Metabolism of proteins,SUMOylation of ubiquitinylation proteins
+Metabolism of proteins,Termination of O-glycan biosynthesis
+Metabolism of proteins,Cargo concentration in the ER
+Metabolism of proteins,COPI-mediated anterograde transport
+Metabolism of proteins,COPII-mediated vesicle transport
+Metabolism of proteins,ER Quality Control Compartment (ERQC)
+Metabolism of proteins,GDP-fucose biosynthesis
+Metabolism of proteins,N-Glycan antennae elongation
+Metabolism of proteins,"Progressive trimming of alpha-1,2-linked mannose residues from Man9/8/7GlcNAc2 to produce Man5GlcNAc2"
+Metabolism of proteins,Reactions specific to the complex N-glycan synthesis pathway
+Metabolism of proteins,Sialic acid metabolism
+Metabolism of proteins,Synthesis of Dolichyl-phosphate
+Metabolism of proteins,Synthesis of dolichyl-phosphate-glucose
+Metabolism of proteins,Synthesis of GDP-mannose
+Metabolism of proteins,Synthesis of UDP-N-acetyl-glucosamine
+Metabolism of proteins,Translation initiation complex formation
+Metabolism of RNA,Metabolism of RNA
+Metabolism of RNA,mRNA Editing
+Metabolism of RNA,Processing of Capped Intron-Containing Pre-mRNA
+Metabolism of RNA,Deadenylation-dependent mRNA decay
+Metabolism of RNA,Regulation of mRNA stability by proteins that bind AU-rich elements
+Metabolism of RNA,rRNA processing
+Metabolism of RNA,Nonsense-Mediated Decay (NMD)
+Metabolism of RNA,Processing of Capped Intronless Pre-mRNA
+Metabolism of RNA,mRNA Capping
+Metabolism of RNA,Metabolism of non-coding RNA
+Metabolism of RNA,mRNA Editing: A to I Conversion
+Metabolism of RNA,mRNA Splicing
+Metabolism of RNA,Transport of Mature Transcript to Cytoplasm
+Metabolism of RNA,mRNA Editing: C to U Conversion
+Metabolism of RNA,Deadenylation of mRNA
+Metabolism of RNA,"Tristetraprolin (TTP, ZFP36) binds and destabilizes mRNA"
+Metabolism of RNA,rRNA processing in the nucleus and cytosol
+Metabolism of RNA,Butyrate Response Factor 1 (BRF1) binds and destabilizes mRNA
+Metabolism of RNA,mRNA decay by 5' to 3' exoribonuclease
+Metabolism of RNA,Nonsense Mediated Decay (NMD) enhanced by the Exon Junction Complex (EJC)
+Metabolism of RNA,Nonsense Mediated Decay (NMD) independent of the Exon Junction Complex (EJC)
+Metabolism of RNA,Processing of Intronless Pre-mRNAs
+Metabolism of RNA,mRNA 3'-end processing
+Metabolism of RNA,HuR (ELAVL1) binds and stabilizes mRNA
+Metabolism of RNA,SLBP independent Processing of Histone Pre-mRNAs
+Metabolism of RNA,mRNA decay by 3' to 5' exoribonuclease
+Metabolism of RNA,AUF1 (hnRNP D0) binds and destabilizes mRNA
+Metabolism of RNA,KSRP (KHSRP) binds and destabilizes mRNA
+Metabolism of RNA,NA
+Metabolism of RNA,snRNP Assembly
+Metabolism of RNA,SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs
+Metabolism of RNA,Formation of editosomes by ADAR proteins
+Metabolism of RNA,mRNA Splicing - Minor Pathway
+Metabolism of RNA,Transport of Mature mRNAs Derived from Intronless Transcripts
+Metabolism of RNA,C6 deamination of adenosine
+Metabolism of RNA,Formation of the Editosome
+Metabolism of RNA,mRNA Splicing - Major Pathway
+Metabolism of RNA,Transport of Mature mRNA derived from an Intron-Containing Transcript
+Metabolism of RNA,Major pathway of rRNA processing in the nucleolus and cytosol
+Metabolism of RNA,Transport of Mature mRNA Derived from an Intronless Transcript
+Metabolism of RNA,Transport of the SLBP Dependant Mature mRNA
+Metabolism of RNA,Transport of the SLBP independent Mature mRNA
+Muscle contraction,Muscle contraction
+Muscle contraction,Cardiac conduction
+Muscle contraction,Striated Muscle Contraction
+Muscle contraction,Smooth Muscle Contraction
+Muscle contraction,Phase 4 - resting membrane potential
+Muscle contraction,NA
+Muscle contraction,Phase 3 - rapid repolarisation
+Muscle contraction,Ion homeostasis
+Muscle contraction,Phase 1 - inactivation of fast Na+ channels
+Muscle contraction,Phase 0 - rapid depolarisation
+Muscle contraction,Physiological factors
+Muscle contraction,Phase 2 - plateau phase
+Neuronal System,Neuronal System
+Neuronal System,Transmission across Chemical Synapses
+Neuronal System,Potassium Channels
+Neuronal System,Transmission across Electrical Synapses 
+Neuronal System,Protein-protein interactions at synapses
+Neuronal System,Neurotransmitter receptors and postsynaptic signal transmission
+Neuronal System,Inwardly rectifying K+ channels
+Neuronal System,Neurotransmitter release cycle
+Neuronal System,Neurotransmitter clearance
+Neuronal System,Neurotransmitter uptake and metabolism In glial cells
+Neuronal System,HCN channels
+Neuronal System,Electric Transmission Across Gap Junctions
+Neuronal System,Tandem pore domain potassium channels
+Neuronal System,Neurexins and neuroligins
+Neuronal System,Ca2+ activated K+ channels
+Neuronal System,Voltage gated Potassium channels
+Neuronal System,Synaptic adhesion-like molecules
+Neuronal System,Receptor-type tyrosine-protein phosphatases
+Neuronal System,Presynaptic depolarization and calcium channel opening
+Neuronal System,GABA receptor activation
+Neuronal System,Activation of NMDA receptors and postsynaptic events
+Neuronal System,Activation of kainate receptors upon glutamate binding
+Neuronal System,Acetylcholine binding and downstream events
+Neuronal System,"Glutamate binding, activation of AMPA receptors and synaptic plasticity"
+Neuronal System,G protein gated Potassium channels
+Neuronal System,"GABA synthesis, release, reuptake and degradation"
+Neuronal System,Dopamine clearance from the synaptic cleft
+Neuronal System,Serotonin clearance from the synaptic cleft
+Neuronal System,Dopamine Neurotransmitter Release Cycle
+Neuronal System,Acetylcholine Neurotransmitter Release Cycle
+Neuronal System,Astrocytic Glutamate-Glutamine Uptake And Metabolism
+Neuronal System,ATP sensitive Potassium channels
+Neuronal System,NA
+Neuronal System,Classical Kir channels
+Neuronal System,Glutamate Neurotransmitter Release Cycle
+Neuronal System,Norepinephrine Neurotransmitter Release Cycle
+Neuronal System,TWIK related potassium channel (TREK)
+Neuronal System,Potassium transport channels
+Neuronal System,Serotonin Neurotransmitter Release Cycle
+Neuronal System,TWIK-releated acid-sensitive K+ channel (TASK)
+Neuronal System,Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)
+Neuronal System,Tandem pore domain halothane-inhibited K+ channel (THIK)
+Neuronal System,TWIK-related alkaline pH activated K+ channel (TALK)
+Neuronal System,TWIK-related spinal cord K+ channel (TRESK)
+Neuronal System,GABA B receptor activation
+Neuronal System,Post NMDA receptor activation events
+Neuronal System,Ionotropic activity of kainate receptors
+Neuronal System,Presynaptic nicotinic acetylcholine receptors
+Neuronal System,Postsynaptic nicotinic acetylcholine receptors
+Neuronal System,Trafficking of AMPA receptors
+Neuronal System,Activation of AMPA receptors
+Neuronal System,Activation of G protein gated Potassium channels
+Neuronal System,Assembly and cell surface presentation of NMDA receptors
+Neuronal System,Degradation of GABA
+Neuronal System,Enzymatic degradation of dopamine by COMT
+Neuronal System,Enzymatic degradation of Dopamine by monoamine oxidase
+Neuronal System,GABA synthesis
+Neuronal System,Ras activation upon Ca2+ influx through NMDA receptor
+Neuronal System,Metabolism of serotonin
+Neuronal System,Presynaptic function of Kainate receptors
+Neuronal System,Reuptake of GABA
+Neuronal System,"Unblocking of NMDA receptors, glutamate binding and activation"
+Neuronal System,Activation of GABAB receptors
+Neuronal System,CREB phosphorylation through the activation of Ras
+Neuronal System,CREB1 phosphorylation through NMDA receptor-mediated activation of RAS signaling
+Neuronal System,Activation of Ca-permeable Kainate Receptor
+Neuronal System,Activation of RAC1 downstream of NMDARs
+Neuronal System,CREB1 phosphorylation through the activation of Adenylate Cyclase
+Neuronal System,CREB1 phosphorylation through the activation of CaMKII/CaMKK/CaMKIV cascasde
+Neuronal System,CREB phosphorylation through the activation of CaMKII
+Neuronal System,CREB phosphorylation through the activation of CaMKK
+Neuronal System,Highly calcium permeable nicotinic acetylcholine receptors
+Neuronal System,Highly calcium permeable postsynaptic nicotinic acetylcholine receptors
+Neuronal System,Highly sodium permeable acetylcholine nicotinic receptors
+Neuronal System,Long-term potentiation
+Neuronal System,Trafficking of GluR2-containing AMPA receptors
+Neuronal System,Adenylate cyclase inhibitory pathway
+Neuronal System,Inhibition  of voltage gated Ca2+ channels via Gbeta/gamma subunits
+Neuronal System,RSK activation
+Organelle biogenesis and maintenance,Organelle biogenesis and maintenance
+Organelle biogenesis and maintenance,Cilium Assembly
+Organelle biogenesis and maintenance,Mitochondrial biogenesis
+Organelle biogenesis and maintenance,Anchoring of the basal body to the plasma membrane
+Organelle biogenesis and maintenance,Cargo trafficking to the periciliary membrane
+Organelle biogenesis and maintenance,Transcriptional activation of mitochondrial biogenesis
+Organelle biogenesis and maintenance,Cristae formation
+Organelle biogenesis and maintenance,Intraflagellar transport
+Organelle biogenesis and maintenance,NA
+Organelle biogenesis and maintenance,ARL13B-mediated ciliary trafficking of INPP5E
+Organelle biogenesis and maintenance,BBSome-mediated cargo-targeting to cilium
+Organelle biogenesis and maintenance,Trafficking of myristoylated proteins to the cilium
+Organelle biogenesis and maintenance,VxPx cargo-targeting to cilium
+Programmed Cell Death,Programmed Cell Death
+Programmed Cell Death,Apoptosis
+Programmed Cell Death,Regulated Necrosis
+Programmed Cell Death,Intrinsic Pathway for Apoptosis
+Programmed Cell Death,Apoptotic execution phase
+Programmed Cell Death,RIPK1-mediated regulated necrosis
+Programmed Cell Death,Caspase activation via extrinsic apoptotic signalling pathway
+Programmed Cell Death,Regulation of Apoptosis
+Programmed Cell Death,Apoptotic factor-mediated response
+Programmed Cell Death,Activation of BH3-only proteins
+Programmed Cell Death,Apoptotic cleavage of cellular proteins
+Programmed Cell Death,Regulation of necroptotic cell death
+Programmed Cell Death,Caspase activation via Death Receptors in the presence of ligand
+Programmed Cell Death,"Activation, translocation and oligomerization of BAX"
+Programmed Cell Death,Activation and oligomerization of BAK protein
+Programmed Cell Death,"Activation, myristolyation of BID and translocation to mitochondria"
+Programmed Cell Death,Apoptosis induced DNA fragmentation
+Programmed Cell Death,BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
+Programmed Cell Death,Caspase activation via Dependence Receptors in the absence of ligand
+Programmed Cell Death,NA
+Programmed Cell Death,Cytochrome c-mediated apoptotic response
+Programmed Cell Death,"SMAC, XIAP-regulated apoptotic response"
+Programmed Cell Death,Activation of BAD and translocation to mitochondria 
+Programmed Cell Death,Activation of BIM and translocation to mitochondria 
+Programmed Cell Death,Activation of BMF and translocation to mitochondria
+Programmed Cell Death,Activation of NOXA and translocation to mitochondria
+Programmed Cell Death,Apoptotic cleavage of cell adhesion  proteins
+Programmed Cell Death,Breakdown of the nuclear lamina
+Programmed Cell Death,CASP8 activity is inhibited
+Programmed Cell Death,Caspase-mediated cleavage of cytoskeletal proteins
+Programmed Cell Death,Dimerization of procaspase-8
+Programmed Cell Death,Regulation by c-FLIP
+Programmed Cell Death,Release of apoptotic factors from the mitochondria
+Programmed Cell Death,Formation of apoptosome
+Programmed Cell Death,SMAC (DIABLO) binds to IAPs 
+Programmed Cell Death,SMAC(DIABLO)-mediated dissociation of IAP:caspase complexes 
+Programmed Cell Death,Regulation of the apoptosome activity
+Protein localization,Protein localization
+Protein localization,Mitochondrial protein import
+Protein localization,Insertion of tail-anchored proteins into the endoplasmic reticulum membrane
+Protein localization,Peroxisomal protein import
+Protein localization,Class I peroxisomal membrane protein import
+Protein localization,NA
+Protein localization,TYSND1 cleaves peroxisomal proteins
+Reproduction,Reproduction
+Reproduction,Fertilization
+Reproduction,Acrosome Reaction and Sperm:Oocyte Membrane Binding
+Reproduction,Sperm Motility And Taxes
+Reproduction,Interaction With Cumulus Cells And The Zona Pellucida
+Reproduction,NA
+Signal Transduction,Signal Transduction
+Signal Transduction,Signaling by GPCR
+Signal Transduction,Signaling by Receptor Tyrosine Kinases
+Signal Transduction,Signaling by Nuclear Receptors
+Signal Transduction,Intracellular signaling by second messengers
+Signal Transduction,MAPK family signaling cascades
+Signal Transduction,Signaling by Rho GTPases
+Signal Transduction,Signaling by WNT
+Signal Transduction,Death Receptor Signalling
+Signal Transduction,Signaling by TGF-beta family members
+Signal Transduction,Signaling by Non-Receptor Tyrosine Kinases
+Signal Transduction,Signaling by NOTCH
+Signal Transduction,Signaling by Hedgehog
+Signal Transduction,Signaling by Hippo
+Signal Transduction,Integrin signaling
+Signal Transduction,mTOR signalling
+Signal Transduction,Signaling by Leptin
+Signal Transduction,Signaling by Erythropoietin
+Signal Transduction,GPCR downstream signalling
+Signal Transduction,Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+Signal Transduction,ESR-mediated signaling
+Signal Transduction,Signaling by FGFR
+Signal Transduction,Signaling by Insulin receptor
+Signal Transduction,Signaling by NTRKs
+Signal Transduction,DAG and IP3 signaling
+Signal Transduction,GPCR ligand binding
+Signal Transduction,PIP3 activates AKT signaling
+Signal Transduction,Signaling by ERBB4
+Signal Transduction,MAPK1/MAPK3 signaling
+Signal Transduction,RHO GTPase Effectors
+Signal Transduction,Beta-catenin independent WNT signaling
+Signal Transduction,p75 NTR receptor-mediated signalling
+Signal Transduction,Signaling by ERBB2
+Signal Transduction,Signaling by TGF-beta Receptor Complex
+Signal Transduction,TCF dependent signaling in response to WNT
+Signal Transduction,Signaling by MET
+Signal Transduction,Signaling by PTK6
+Signal Transduction,Signaling by NOTCH3
+Signal Transduction,Signaling by EGFR
+Signal Transduction,NR1H2 and NR1H3-mediated signaling
+Signal Transduction,Pre-NOTCH Expression and Processing
+Signal Transduction,Hedgehog ligand biogenesis
+Signal Transduction,Signaling by VEGF
+Signal Transduction,Signaling by NOTCH1
+Signal Transduction,Hedgehog 'on' state
+Signal Transduction,Signaling by Activin
+Signal Transduction,TNF signaling
+Signal Transduction,Degradation of beta-catenin by the destruction complex
+Signal Transduction,Integrin alphaIIb beta3 signaling
+Signal Transduction,GRB2:SOS provides linkage to MAPK signaling for Integrins 
+Signal Transduction,Hedgehog 'off' state
+Signal Transduction,Signaling by PDGF
+Signal Transduction,p130Cas linkage to MAPK signaling for integrins
+Signal Transduction,Signaling by NOTCH4
+Signal Transduction,Signaling by NOTCH2
+Signal Transduction,NOTCH2 intracellular domain regulates transcription
+Signal Transduction,MAPK6/MAPK4 signaling
+Signal Transduction,Signaling by Retinoic Acid
+Signal Transduction,Signaling by SCF-KIT
+Signal Transduction,Signaling by BMP
+Signal Transduction,Inhibition of TSC complex formation by PKB
+Signal Transduction,Energy dependent regulation of mTOR by LKB1-AMPK
+Signal Transduction,Signaling by MST1
+Signal Transduction,mTORC1-mediated signalling
+Signal Transduction,Erythropoietin activates Phosphoinositide-3-kinase (PI3K)
+Signal Transduction,Erythropoietin activates RAS
+Signal Transduction,TRAIL  signaling
+Signal Transduction,WNT ligand biogenesis and trafficking
+Signal Transduction,FasL/ CD95L signaling
+Signal Transduction,Rho GTPase cycle
+Signal Transduction,G alpha (i) signalling events
+Signal Transduction,IGF1R signaling cascade
+Signal Transduction,Extra-nuclear estrogen signaling
+Signal Transduction,Signaling by FGFR1
+Signal Transduction,Insulin receptor signalling cascade
+Signal Transduction,Signaling by NTRK1 (TRKA)
+Signal Transduction,CaM pathway
+Signal Transduction,Class A/1 (Rhodopsin-like receptors)
+Signal Transduction,G alpha (q) signalling events
+Signal Transduction,Signaling by FGFR4
+Signal Transduction,Signaling by FGFR2
+Signal Transduction,Signaling by FGFR3
+Signal Transduction,Negative regulation of the PI3K/AKT network
+Signal Transduction,SHC1 events in ERBB4 signaling
+Signal Transduction,RAF/MAP kinase cascade
+Signal Transduction,Signaling by NTRK2 (TRKB)
+Signal Transduction,Signaling by NTRK3 (TRKC)
+Signal Transduction,RHO GTPases activate PKNs
+Signal Transduction,PCP/CE pathway
+Signal Transduction,p75NTR regulates axonogenesis
+Signal Transduction,Class B/2 (Secretin family receptors)
+Signal Transduction,Downregulation of ERBB2 signaling
+Signal Transduction,Transcriptional activity of SMAD2/SMAD3:SMAD4 heterotrimer
+Signal Transduction,TGF-beta receptor signaling activates SMADs
+Signal Transduction,Downregulation of ERBB4 signaling
+Signal Transduction,G-protein beta:gamma signalling
+Signal Transduction,Formation of the beta-catenin:TCF transactivating complex
+Signal Transduction,MET Receptor Activation
+Signal Transduction,GRB7 events in ERBB2 signaling
+Signal Transduction,RAF-independent MAPK1/3 activation
+Signal Transduction,MET promotes cell motility
+Signal Transduction,ERBB2 Activates PTK6 Signaling
+Signal Transduction,"Cell death signalling via NRAGE, NRIF and NADE"
+Signal Transduction,p75NTR signals via NF-kB
+Signal Transduction,Expression and Processing of Neurotrophins
+Signal Transduction,NOTCH3 Activation and Transmission of Signal to the Nucleus
+Signal Transduction,GAB1 signalosome
+Signal Transduction,G alpha (s) signalling events
+Signal Transduction,PTK6 Regulates RTKs and Their Effectors AKT1 and DOK1
+Signal Transduction,RHO GTPases activate CIT
+Signal Transduction,NR1H3 & NR1H2 regulate gene expression linked to cholesterol transport and efflux
+Signal Transduction,PTEN Regulation
+Signal Transduction,Negative regulation of MET activity
+Signal Transduction,PI3K events in ERBB2 signaling
+Signal Transduction,Pre-NOTCH Processing in Golgi
+Signal Transduction,Release of Hh-Np from the secreting cell
+Signal Transduction,VEGF ligand-receptor interactions
+Signal Transduction,VEGFA-VEGFR2 Pathway
+Signal Transduction,Activated NOTCH1 Transmits Signal to the Nucleus
+Signal Transduction,Activation of SMO
+Signal Transduction,AKT phosphorylates targets in the cytosol
+Signal Transduction,AKT phosphorylates targets in the nucleus
+Signal Transduction,Antagonism of Activin by Follistatin
+Signal Transduction,TNFR1-induced proapoptotic signaling
+Signal Transduction,TNFR1-mediated ceramide production
+Signal Transduction,Deactivation of the beta-catenin transactivating complex
+Signal Transduction,Degradation of DVL
+Signal Transduction,Beta-catenin phosphorylation cascade
+Signal Transduction,EGFR downregulation
+Signal Transduction,EGFR interacts with phospholipase C-gamma
+Signal Transduction,Ca2+ pathway
+Signal Transduction,G alpha (z) signalling events
+Signal Transduction,Class C/3 (Metabotropic glutamate/pheromone receptors)
+Signal Transduction,MET activates RAS signaling
+Signal Transduction,GLI3 is processed to GLI3R by the proteasome
+Signal Transduction,Degradation of AXIN
+Signal Transduction,Degradation of GLI1 by the proteasome
+Signal Transduction,Disassembly of the destruction complex and recruitment of AXIN to the membrane
+Signal Transduction,Downstream signal transduction
+Signal Transduction,ERBB2 Regulates Cell Motility
+Signal Transduction,Estrogen-dependent gene expression
+Signal Transduction,G alpha (12/13) signalling events
+Signal Transduction,MET activates PTPN11
+Signal Transduction,MET receptor recycling
+Signal Transduction,GRB2 events in EGFR signaling
+Signal Transduction,GRB2 events in ERBB2 signaling
+Signal Transduction,Negative regulation of NOTCH4 signaling
+Signal Transduction,Neurophilin interactions with VEGF and VEGFR
+Signal Transduction,NFG and proNGF binds to p75NTR
+Signal Transduction,Insulin receptor recycling
+Signal Transduction,Ligand-receptor interactions
+Signal Transduction,MET activates PI3K/AKT signaling
+Signal Transduction,MET activates STAT3
+Signal Transduction,PTK6 Activates STAT3
+Signal Transduction,Regulated proteolysis of p75NTR
+Signal Transduction,Regulation of FZD by ubiquitination
+Signal Transduction,Negative regulation of TCF-dependent signaling by WNT ligand antagonists
+Signal Transduction,NOTCH1 Intracellular Domain Regulates Transcription
+Signal Transduction,RHO GTPases activate KTN1
+Signal Transduction,NOTCH4 Activation and Transmission of Signal to the Nucleus
+Signal Transduction,NR1H2 & NR1H3 regulate gene expression to control bile acid homeostasis
+Signal Transduction,Nuclear signaling by ERBB4
+Signal Transduction,SHC1 events in EGFR signaling
+Signal Transduction,SHC1 events in ERBB2 signaling
+Signal Transduction,PI3K events in ERBB4 signaling
+Signal Transduction,Pre-NOTCH Transcription and Translation
+Signal Transduction,PTK6 Down-Regulation
+Signal Transduction,PTK6 promotes HIF1A stabilization
+Signal Transduction,PTK6 Regulates Cell Cycle
+Signal Transduction,PTK6 Regulates Proteins Involved in RNA Processing
+Signal Transduction,"PTK6 Regulates RHO GTPases, RAS GTPase and MAP kinases"
+Signal Transduction,RA biosynthesis pathway
+Signal Transduction,TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+Signal Transduction,Regulation of KIT signaling
+Signal Transduction,Regulation of TNFR1 signaling
+Signal Transduction,Repression of WNT target genes
+Signal Transduction,RHO GTPases Activate Formins
+Signal Transduction,RHO GTPases activate IQGAPs
+Signal Transduction,RHO GTPases Activate NADPH Oxidases
+Signal Transduction,RHO GTPases activate PAKs
+Signal Transduction,RHO GTPases Activate Rhotekin and Rhophilins
+Signal Transduction,RHO GTPases Activate ROCKs
+Signal Transduction,RHO GTPases Activate WASPs and WAVEs
+Signal Transduction,RHO GTPases regulate CFTR trafficking
+Signal Transduction,TNFR1-induced NFkappaB signaling pathway
+Signal Transduction,WNT mediated activation of DVL
+Signal Transduction,Opioid Signalling
+Signal Transduction,IRS-related events triggered by IGF1R
+Signal Transduction,Estrogen-stimulated signaling through PRKCZ
+Signal Transduction,FGFRL1 modulation of FGFR1 signaling
+Signal Transduction,IRS-mediated signalling
+Signal Transduction,Visual phototransduction
+Signal Transduction,Signalling to ERKs
+Signal Transduction,Nuclear Events (kinase and transcription factor activation)
+Signal Transduction,Calmodulin induced events
+Signal Transduction,Nucleotide-like (purinergic) receptors
+Signal Transduction,Amine ligand-binding receptors
+Signal Transduction,Effects of PIP2 hydrolysis
+Signal Transduction,FGFR4 ligand binding and activation
+Signal Transduction,Peptide ligand-binding receptors
+Signal Transduction,Gastrin-CREB signalling pathway via PKC and MAPK
+Signal Transduction,FGFR1 ligand binding and activation
+Signal Transduction,FGFR2 ligand binding and activation
+Signal Transduction,FGFR3 ligand binding and activation
+Signal Transduction,Downstream signaling of activated FGFR1
+Signal Transduction,Downstream signaling of activated FGFR2
+Signal Transduction,Downstream signaling of activated FGFR3
+Signal Transduction,Downstream signaling of activated FGFR4
+Signal Transduction,Eicosanoid ligand-binding receptors
+Signal Transduction,"PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling"
+Signal Transduction,Negative regulation of MAPK pathway
+Signal Transduction,Activated NTRK2 signals through FYN
+Signal Transduction,Negative regulation of FGFR1 signaling
+Signal Transduction,Negative regulation of FGFR2 signaling
+Signal Transduction,Negative regulation of FGFR3 signaling
+Signal Transduction,Negative regulation of FGFR4 signaling
+Signal Transduction,Activation of TRKA receptors
+Signal Transduction,Activated NTRK2 signals through FRS2 and FRS3
+Signal Transduction,Activated NTRK2 signals through PLCG1
+Signal Transduction,Activated NTRK3 signals through PI3K
+Signal Transduction,Activated NTRK3 signals through PLCG1
+Signal Transduction,Activated PKN1 stimulates transcription of AR (androgen receptor) regulated genes KLK2 and KLK3
+Signal Transduction,Asymmetric localization of PCP proteins
+Signal Transduction,Axonal growth inhibition (RHOA activation)
+Signal Transduction,Axonal growth stimulation
+Signal Transduction,Calcitonin-like ligand receptors
+Signal Transduction,Downregulation of ERBB2:ERBB3 signaling
+Signal Transduction,Downregulation of SMAD2/3:SMAD4 transcriptional activity
+Signal Transduction,Downregulation of TGF-beta receptor signaling
+Signal Transduction,Estrogen-dependent nuclear events downstream of ESR-membrane signaling
+Signal Transduction,FGFR2 alternative splicing
+Signal Transduction,Free fatty acid receptors
+Signal Transduction,G beta:gamma signalling through BTK
+Signal Transduction,G beta:gamma signalling through CDC42
+Signal Transduction,G beta:gamma signalling through PI3Kgamma
+Signal Transduction,G beta:gamma signalling through PLC beta
+Signal Transduction,Glucagon-type ligand receptors
+Signal Transduction,Hormone ligand-binding receptors
+Signal Transduction,Hydroxycarboxylic acid-binding receptors
+Signal Transduction,IRS activation
+Signal Transduction,Lysosphingolipid and LPA receptors
+Signal Transduction,MAP2K and MAPK activation
+Signal Transduction,MAPK1 (ERK2) activation
+Signal Transduction,MAPK3 (ERK1) activation
+Signal Transduction,MET activates PTK2 signaling
+Signal Transduction,MET activates RAP1 and RAC1
+Signal Transduction,MET interacts with TNS proteins
+Signal Transduction,NADE modulates death signalling
+Signal Transduction,NF-kB is activated and signals survival
+Signal Transduction,NGF processing
+Signal Transduction,Noncanonical activation of NOTCH3
+Signal Transduction,NRAGE signals death through JNK
+Signal Transduction,NRIF signals cell death from the nucleus
+Signal Transduction,NTF3 activates NTRK3 signaling
+Signal Transduction,Olfactory Signaling Pathway
+Signal Transduction,Opsins
+Signal Transduction,p75NTR recruits signalling complexes
+Signal Transduction,PI3K/AKT activation
+Signal Transduction,RAF activation
+Signal Transduction,Regulation of PTEN gene transcription
+Signal Transduction,Regulation of PTEN localization
+Signal Transduction,Regulation of PTEN stability and activity
+Signal Transduction,Regulation of RAS by GAPs
+Signal Transduction,Retrograde neurotrophin signalling
+Signal Transduction,SHC-related events triggered by IGF1R
+Signal Transduction,Signal attenuation
+Signal Transduction,Signalling to ERK5
+Signal Transduction,SMAD2/SMAD3:SMAD4 heterotrimer regulates transcription
+Signal Transduction,VEGF binds to VEGFR leading to receptor dimerization
+Signal Transduction,VEGFR2 mediated cell proliferation
+Signal Transduction,VEGFR2 mediated vascular permeability
+Signal Transduction,"WNT5A-dependent internalization of FZD2, FZD5 and ROR2"
+Signal Transduction,WNT5A-dependent internalization of FZD4
+Signal Transduction,G-protein mediated events
+Signal Transduction,PI3K Cascade
+Signal Transduction,The phototransduction cascade
+Signal Transduction,Prolonged ERK activation events
+Signal Transduction,ERK/MAPK targets
+Signal Transduction,Signalling to RAS
+Signal Transduction,PKA-mediated phosphorylation of CREB
+Signal Transduction,Adenosine P1 receptors
+Signal Transduction,Adrenoceptors
+Signal Transduction,Arachidonate production from DAG
+Signal Transduction,betaKlotho-mediated ligand binding
+Signal Transduction,Cam-PDE 1 activation
+Signal Transduction,CaMK IV-mediated phosphorylation of CREB
+Signal Transduction,Chemokine receptors bind chemokines
+Signal Transduction,CREB phosphorylation
+Signal Transduction,DARPP-32 events
+Signal Transduction,Dopamine receptors
+Signal Transduction,EGFR Transactivation by Gastrin
+Signal Transduction,FGFR1b ligand binding and activation
+Signal Transduction,FGFR1c and Klotho ligand binding and activation
+Signal Transduction,FGFR1c ligand binding and activation
+Signal Transduction,FGFR2b ligand binding and activation
+Signal Transduction,FGFR2c ligand binding and activation
+Signal Transduction,FGFR3b ligand binding and activation
+Signal Transduction,FGFR3c ligand binding and activation
+Signal Transduction,Formyl peptide receptors bind formyl peptides and many other ligands
+Signal Transduction,FRS-mediated FGFR1 signaling
+Signal Transduction,FRS-mediated FGFR2 signaling
+Signal Transduction,FRS-mediated FGFR3 signaling
+Signal Transduction,FRS-mediated FGFR4 signaling
+Signal Transduction,G-protein activation
+Signal Transduction,Histamine receptors
+Signal Transduction,Leukotriene receptors
+Signal Transduction,Muscarinic acetylcholine receptors
+Signal Transduction,Negative feedback regulation of MAPK pathway
+Signal Transduction,NTRK2 activates RAC1
+Signal Transduction,Orexin and neuropeptides FF and QRFP bind to their respective receptors
+Signal Transduction,P2Y receptors
+Signal Transduction,Phospholipase C-mediated cascade: FGFR1
+Signal Transduction,Phospholipase C-mediated cascade; FGFR2
+Signal Transduction,Phospholipase C-mediated cascade; FGFR3
+Signal Transduction,Phospholipase C-mediated cascade; FGFR4
+Signal Transduction,PI-3K cascade:FGFR1
+Signal Transduction,PI-3K cascade:FGFR2
+Signal Transduction,PI-3K cascade:FGFR3
+Signal Transduction,PI-3K cascade:FGFR4
+Signal Transduction,Prostanoid ligand receptors
+Signal Transduction,Relaxin receptors
+Signal Transduction,Retinoid metabolism and transport
+Signal Transduction,Serotonin receptors
+Signal Transduction,SHC-mediated cascade:FGFR1
+Signal Transduction,SHC-mediated cascade:FGFR2
+Signal Transduction,SHC-mediated cascade:FGFR3
+Signal Transduction,SHC-mediated cascade:FGFR4
+Signal Transduction,SOS-mediated signalling
+Signal Transduction,Spry regulation of FGF signaling
+Signal Transduction,Tachykinin receptors bind tachykinins
+Signal Transduction,The canonical retinoid cycle in rods (twilight vision)
+Signal Transduction,The retinoid cycle in cones (daylight vision)
+Signal Transduction,TRKA activation by NGF
+Signal Transduction,Vasopressin-like receptors
+Signal Transduction,PLC beta mediated events
+Signal Transduction,PKB-mediated events
+Signal Transduction,Activation of AKT2
+Signal Transduction,Activation of the phototransduction cascade
+Signal Transduction,Adenylate cyclase activating pathway
+Signal Transduction,Adenylate cyclase inhibitory pathway
+Signal Transduction,ARMS-mediated activation
+Signal Transduction,ERKs are inactivated
+Signal Transduction,Frs2-mediated activation
+Signal Transduction,"Inactivation, recovery and regulation of the phototransduction cascade"
+Signal Transduction,p38MAPK events
+Signal Transduction,PKA activation
+Signal Transduction,Ca-dependent events
+Signal Transduction,PDE3B signalling
+Signal Transduction,phospho-PLA2 pathway
+Transport of small molecules,Transport of small molecules
+Transport of small molecules,SLC-mediated transmembrane transport
+Transport of small molecules,"Plasma lipoprotein assembly, remodeling, and clearance"
+Transport of small molecules,Ion channel transport
+Transport of small molecules,ABC-family proteins mediated transport
+Transport of small molecules,Aquaporin-mediated transport
+Transport of small molecules,O2/CO2 exchange in erythrocytes
+Transport of small molecules,Mitochondrial calcium ion transport
+Transport of small molecules,Miscellaneous transport and binding events
+Transport of small molecules,Intracellular oxygen transport
+Transport of small molecules,Iron uptake and transport
+Transport of small molecules,"Transport of bile salts and organic acids, metal ions and amine compounds"
+Transport of small molecules,Plasma lipoprotein remodeling
+Transport of small molecules,Plasma lipoprotein assembly
+Transport of small molecules,Transport of inorganic cations/anions and amino acids/oligopeptides
+Transport of small molecules,Cellular hexose transport
+Transport of small molecules,Stimuli-sensing channels
+Transport of small molecules,Plasma lipoprotein clearance
+Transport of small molecules,ABC transporters in lipid homeostasis
+Transport of small molecules,"Transport of vitamins, nucleosides, and related molecules"
+Transport of small molecules,Transport of glycerol from adipocytes to the liver by Aquaporins
+Transport of small molecules,Erythrocytes take up carbon dioxide and release oxygen
+Transport of small molecules,Processing of SMDT1
+Transport of small molecules,Ion transport by P-type ATPases
+Transport of small molecules,Mitochondrial ABC transporters
+Transport of small molecules,NA
+Transport of small molecules,Erythrocytes take up oxygen and release carbon dioxide
+Transport of small molecules,Vasopressin regulates renal water homeostasis via Aquaporins
+Transport of small molecules,Passive transport by Aquaporins
+Transport of small molecules,Transferrin endocytosis and recycling
+Transport of small molecules,Organic cation/anion/zwitterion transport
+Transport of small molecules,Metal ion SLC transporters
+Transport of small molecules,Chylomicron remodeling
+Transport of small molecules,HDL assembly
+Transport of small molecules,Cation-coupled Chloride cotransporters
+Transport of small molecules,HDL remodeling
+Transport of small molecules,Sodium-coupled phosphate cotransporters
+Transport of small molecules,TRP channels
+Transport of small molecules,Chylomicron clearance
+Transport of small molecules,Amino acid transport across the plasma membrane
+Transport of small molecules,Assembly of active LPL and LIPC lipase complexes
+Transport of small molecules,Bicarbonate transporters
+Transport of small molecules,Chylomicron assembly
+Transport of small molecules,VLDL assembly
+Transport of small molecules,HDL clearance
+Transport of small molecules,Inositol transporters
+Transport of small molecules,LDL clearance
+Transport of small molecules,LDL remodeling
+Transport of small molecules,Proton-coupled monocarboxylate transport
+Transport of small molecules,Multifunctional anion exchangers
+Transport of small molecules,Na+/Cl- dependent neurotransmitter transporters
+Transport of small molecules,Organic anion transporters
+Transport of small molecules,Transport of fatty acids
+Transport of small molecules,Proton-coupled neutral amino acid transporters
+Transport of small molecules,Proton/oligopeptide cotransporters
+Transport of small molecules,Sodium/Calcium exchangers
+Transport of small molecules,VLDLR internalisation and degradation
+Transport of small molecules,Rhesus glycoproteins mediate ammonium transport.
+Transport of small molecules,Transport of organic anions
+Transport of small molecules,"Sodium-coupled sulphate, di- and tri-carboxylate transporters"
+Transport of small molecules,Sodium/Proton exchangers
+Transport of small molecules,VLDL clearance
+Transport of small molecules,Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane
+Transport of small molecules,Transport of nucleotide sugars
+Transport of small molecules,Organic anion transport
+Transport of small molecules,Zinc transporters
+Transport of small molecules,Organic cation transport
+Transport of small molecules,Type II Na+/Pi cotransporters
+Transport of small molecules,Zinc efflux and compartmentalization by the SLC30 family
+Transport of small molecules,Zinc influx into cells by the SLC39 gene family
+Vesicle-mediated transport,Vesicle-mediated transport
+Vesicle-mediated transport,Membrane Trafficking
+Vesicle-mediated transport,Binding and Uptake of Ligands by Scavenger Receptors
+Vesicle-mediated transport,Gap junction trafficking and regulation
+Vesicle-mediated transport,Intra-Golgi and retrograde Golgi-to-ER traffic
+Vesicle-mediated transport,ER to Golgi Anterograde Transport
+Vesicle-mediated transport,Clathrin derived vesicle budding
+Vesicle-mediated transport,Clathrin-mediated endocytosis
+Vesicle-mediated transport,Scavenging by Class H Receptors
+Vesicle-mediated transport,Scavenging of heme from plasma
+Vesicle-mediated transport,trans-Golgi Network Vesicle Budding
+Vesicle-mediated transport,Rab regulation of trafficking
+Vesicle-mediated transport,Scavenging by Class B Receptors
+Vesicle-mediated transport,Endosomal Sorting Complex Required For Transport (ESCRT)
+Vesicle-mediated transport,Scavenging by Class A Receptors
+Vesicle-mediated transport,Gap junction trafficking
+Vesicle-mediated transport,Golgi-to-ER retrograde transport
+Vesicle-mediated transport,COPI-mediated anterograde transport
+Vesicle-mediated transport,Cargo concentration in the ER
+Vesicle-mediated transport,Cargo recognition for clathrin-mediated endocytosis
+Vesicle-mediated transport,COPII-mediated vesicle transport
+Vesicle-mediated transport,NA
+Vesicle-mediated transport,Intra-Golgi traffic
+Vesicle-mediated transport,Golgi Associated Vesicle Biogenesis
+Vesicle-mediated transport,Lysosome Vesicle Biogenesis
+Vesicle-mediated transport,RAB GEFs exchange GTP for GDP on RABs
+Vesicle-mediated transport,Retrograde transport at the Trans-Golgi-Network
+Vesicle-mediated transport,TBC/RABGAPs
+Vesicle-mediated transport,Regulation of gap junction activity
+Vesicle-mediated transport,Gap junction assembly
+Vesicle-mediated transport,Gap junction degradation
+Vesicle-mediated transport,COPI-dependent Golgi-to-ER retrograde traffic
+Vesicle-mediated transport,COPI-independent Golgi-to-ER retrograde traffic
+Vesicle-mediated transport,Transport of connexons to the plasma membrane
+Vesicle-mediated transport,Formation of annular gap junctions
+Vesicle-mediated transport,Oligomerization of connexins into connexons
+Vesicle-mediated transport,Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
