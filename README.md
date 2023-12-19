@@ -1,6 +1,6 @@
 # BRAINSPACE
 
-This repository contains scripts and files relating to the BRAINSPACE project for the analysis of data with/from the QCAlign software and Nutil software.
+This repository contains scripts and files relating to the BRAINSPACE project for the analysis of data from the QUINT workflow. The scripts were used to analyse the data publicly shared [here]() and described in the BRAINSPACE article. 
 
 More information on the [BRAINSPACE project](https://www.humanbrainproject.eu/en/collaborate-hbp/partnering-projects/brainspace/). 
 
