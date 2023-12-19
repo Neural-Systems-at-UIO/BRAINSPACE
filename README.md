@@ -8,36 +8,24 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 # Overview of files
 
-The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters selected for the BRAINSPACE project. The test datasets contain objects of known size and location and were processed with Nutil Quantifier with the parameters specified in the .NUT file. For both datasets, the Nutil output matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated using other parameter combinations outside of this project. 
+The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters selected for the BRAINSPACE project. The test datasets contain objects of known size and location and were processed with Nutil Quantifier with the parameters specified in the .NUT file. For both datasets, the Nutil output matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated using other parameter combinations outside of this project.
+
+The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE study.
 
 The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BRAINSPACE project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
 
-The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE study. 
+ The `Scripts` folder contains the R scripts that were used to analyse the data in the BRAINSPACE article. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more details of the input, output and purpose of these scripts. 
 
 The `SupplementaryTables` folder contains supplementary tables for the BRAINSPACE article. 
-
-The `Scripts` folder contains R scripts relating to analysis of Nutil output and QCAlign output. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more details of the purpose, input and output of these scripts. 
-
-* `CompileNutilOutput_IntermediateRegions.R`. Purpose
-
-* `ANOVA_Wilcoxon_Statistics.R` 
-
-* `CompileQCAlignOutput.R` 
-
-* `MultilevelCorrelations_SampleMatch.R`
-
-
-
- 
 
 # How to cite
 
 
-**BRAINSPACE Project** 
+**BRAINSPACE article** 
 
 Gurdon B, Yates SC, Csucs G, Groeneboom NE, Hadad N, Telpoukhovskaia M, Ouellette A, Ouellette T, O’Connell K, Singh S, Murdy M, Merchant E, Bjerke I, Kleven H, Schlegel U, Puchades MA, Leergaard TB, Bjaalie JG, and Kaczorowski CC. Detecting the effect of genetic diversity on brain composition in an Alzheimer’s disease mouse model. BioRxiv Preprint. https://doi.org/10.1101/2023.02.27.530226 
 
-**QUINT**
+**QUINT workflow**
 
 Yates SC, Groeneboom NE, Coello C, Lichtenthaler SF, Kuhn PH, Demuth HU,Hartlage-Rübsamen M, Roßner S, Leergaard T, Kreshuk A, Puchades MA, Bjaalie JG. QUINT: Workflow for quantification and spatial analysis of features in histological images from rodent brain. *Front Neuroinform.* 2019 Dec 3;13:75. https://doi.org/10.3389/fninf.2019.00075.
 
@@ -67,7 +55,8 @@ The BRAINSPACE project received support from the EBRAINS infrastructure with fun
 
 # Contact us
 
-For advice on using the tools in the QUINT workflow, contact: support@ebrains.eu
+For questions relating to the BRAINSPACE article, contact the lead author. 
+For advice on using the tools in the QUINT workflow, contact support@ebrains.eu
 
 
 
