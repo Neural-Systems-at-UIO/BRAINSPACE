@@ -8,15 +8,19 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 # Overview of files
 
-The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the parameters used in the BRAINSPACE project. The test datasets contain objects of known size and anatomical location. They were analysed with Nutil Quantifier with the parameters in NutilFileExample.nut. For both datasets, the results from the Nutil software matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated with other datasets and parameters as described in the user documentation.
+### The `Nutil_Validation` folder contains two test datasets that were used to validate Nutil Quantifier v0.7.0 for the BRAINSPACE project. 
 
-The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE project.
+The test datasets have objects of known size and anatomical location. They were analysed with Nutil Quantifier with the parameters specified in the NutilFileExample.nut file. For both datasets, the results from the Nutil software matched the ground truth for the dataset. The [Nutil software](https://nutil.readthedocs.io/en/latest/testing.html) has also been validated with other datasets and parameters as described in the user documentation.
 
-The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BRAINSPACE project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
+### The `NutilFileExample.nut` lists the Nutil parameters used for the BRAINSPACE project.
 
- The `Scripts` folder contains R scripts that were used to analyse the data in the BRAINSPACE article. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more information of the input, output and purpose of each script. 
+The `Scripts` folder contains R scripts that were used to analyse the data in the BRAINSPACE article. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more information of the input, output and purpose of each script. 
 
-The `SupplementaryTables` folder contains supplementary tables for the BRAINSPACE article. 
+### The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BRAINSPACE project. 
+
+Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
+
+## The `SupplementaryTables` folder contains supplementary tables for the BRAINSPACE article. 
 
 # How to cite
 
