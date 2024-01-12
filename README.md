@@ -12,7 +12,7 @@ More information on the [QUINT workflow](https://quint-workflow.readthedocs.io/e
 
 2. The `Scripts` folder contains R scripts that were used to analyse the data in the BRAINSPACE article. See the [Wiki](https://github.com/Neural-Systems-at-UIO/BRAINSPACE/wiki) for more information of the input, output and purpose of each script.
 
-3. The `Intermediate_hierarchy.txt` lists the custom regions used for QUINT analysis in the BRAINSPACE project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
+3. The `Intermediate_hierarchy.txt` lists the customized regions used for QUINT analysis in the BRAINSPACE project. Each custom region is comprised of regions from the Allen Mouse Brain Atlas Common Coordinate Framework v3 (CCFv3). The assigned custom region name is listed in row 1, with atlas IDs assigned to this region listed below.
 
 4. The `SupplementaryTables` folder contains supplementary tables for the BRAINSPACE article. 
 
